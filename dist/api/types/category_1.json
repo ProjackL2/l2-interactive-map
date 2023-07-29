@@ -1,0 +1,22 @@
+{
+    "types": [
+        {
+            "id": "category_1_type_0",
+            "title": "Castles",
+            "icon": "gi-ore",
+            "description": ""
+        },
+        {
+            "id": "category_1_type_1",
+            "title": "Fortresses",
+            "icon": "gi-log",
+            "description": ""
+        },
+        {
+            "id": "category_1_type_2",
+            "title": "Clan Halls",
+            "icon": "gi-log",
+            "description": ""
+        }
+    ]
+}

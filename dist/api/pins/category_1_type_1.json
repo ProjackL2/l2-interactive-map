@@ -1,0 +1,234 @@
+{
+    "pins": [
+        {
+            "id": "obj-6",
+            "title": "Cloud Mountain Fortress",
+            "iconUrl": "/objects/cloud_mountain_fortress.png",
+            "area": "High Five",
+            "x": 1313,
+            "y": 1904,
+            "z": 3,
+            "description": ""
+        },
+        {
+            "id": "obj-8",
+            "title": "Floran Fortress",
+            "iconUrl": "/objects/floran_fortress.png",
+            "area": "High Five",
+            "x": 1641,
+            "y": 2203,
+            "z": 3,
+            "description": ""
+        },
+        {
+            "id": "obj-15",
+            "title": "Elven Fortress",
+            "iconUrl": "/objects/elven_fortress.png",
+            "area": "High Five",
+            "x": 1741,
+            "y": 1773,
+            "z": 3,
+            "description": ""
+        },
+        {
+            "id": "obj-20",
+            "title": "Western Fortress",
+            "iconUrl": "/objects/western_fortress.png",
+            "area": "High Five",
+            "x": 2325,
+            "y": 1165,
+            "z": 3,
+            "description": ""
+        },
+        {
+            "id": "obj-41",
+            "title": "Demon Fortress",
+            "iconUrl": "/objects/demon_fortress.png",
+            "area": "High Five",
+            "x": 2200,
+            "y": 1070,
+            "z": 3,
+            "description": ""
+        },
+        {
+            "id": "obj-57",
+            "title": "Hunters Fortress",
+            "iconUrl": "/objects/hunters_fortress.png",
+            "area": "High Five",
+            "x": 2362,
+            "y": 1930,
+            "z": 3,
+            "description": ""
+        },
+        {
+            "id": "obj-80",
+            "title": "Antharas Fortress",
+            "iconUrl": "/objects/antharas_fortress.png",
+            "area": "High Five",
+            "x": 2108,
+            "y": 1873,
+            "z": 3,
+            "description": ""
+        },
+        {
+            "id": "obj-93",
+            "title": "Narsell Fortress",
+            "iconUrl": "/objects/narsell_fortress.png",
+            "area": "High Five",
+            "x": 2509,
+            "y": 1680,
+            "z": 3,
+            "description": ""
+        },
+        {
+            "id": "obj-98",
+            "title": "Shanty Fortress",
+            "iconUrl": "/objects/shanty_fortress.png",
+            "area": "High Five",
+            "x": 1316,
+            "y": 2229,
+            "z": 3,
+            "description": ""
+        },
+        {
+            "id": "obj-99",
+            "title": "Border Outpost",
+            "iconUrl": "/objects/border_outpost.png",
+            "area": "High Five",
+            "x": 2292,
+            "y": 1228,
+            "z": 3,
+            "description": ""
+        },
+        {
+            "id": "obj-100",
+            "title": "Dragonspine Fortress",
+            "iconUrl": "/objects/dragonspine_fortress.png",
+            "area": "High Five",
+            "x": 1671,
+            "y": 1881,
+            "z": 3,
+            "description": ""
+        },
+        {
+            "id": "obj-101",
+            "title": "Borderland Fortress",
+            "iconUrl": "/objects/borderland_fortress.png",
+            "area": "High Five",
+            "x": 2556,
+            "y": 936,
+            "z": 3,
+            "description": ""
+        },
+        {
+            "id": "obj-102",
+            "title": "Southern Fortress",
+            "iconUrl": "/objects/southern_fortress.png",
+            "area": "High Five",
+            "x": 1483,
+            "y": 2601,
+            "z": 3,
+            "description": ""
+        },
+        {
+            "id": "obj-103",
+            "title": "Swamp Fortress",
+            "iconUrl": "/objects/swamp_fortress.png",
+            "area": "High Five",
+            "x": 2023,
+            "y": 967,
+            "z": 3,
+            "description": ""
+        },
+        {
+            "id": "obj-104",
+            "title": "Valley Fortress",
+            "iconUrl": "/objects/valley_fortress.png",
+            "area": "High Five",
+            "x": 2351,
+            "y": 2023,
+            "z": 3,
+            "description": ""
+        },
+        {
+            "id": "obj-105",
+            "title": "Monastic Fortress",
+            "iconUrl": "/objects/monastic_fortress.png",
+            "area": "High Five",
+            "x": 2062,
+            "y": 792,
+            "z": 3,
+            "description": ""
+        },
+        {
+            "id": "obj-107",
+            "title": "White Sands Fortress",
+            "iconUrl": "/objects/white_sands_fortress.png",
+            "area": "High Five",
+            "x": 2302,
+            "y": 2496,
+            "z": 3,
+            "description": ""
+        },
+        {
+            "id": "obj-108",
+            "title": "Tanor Fortress",
+            "iconUrl": "/objects/tanor_fortress.png",
+            "area": "High Five",
+            "x": 1989,
+            "y": 2131,
+            "z": 3,
+            "description": ""
+        },
+        {
+            "id": "obj-109",
+            "title": "Archaic Fortress",
+            "iconUrl": "/objects/archaic_fortress.png",
+            "area": "High Five",
+            "x": 2249,
+            "y": 506,
+            "z": 3,
+            "description": ""
+        },
+        {
+            "id": "obj-147",
+            "title": "Aaru Fortress",
+            "iconUrl": "/objects/aaru_fortress.png",
+            "area": "High Five",
+            "x": 2026,
+            "y": 2389,
+            "z": 3,
+            "description": ""
+        },
+        {
+            "id": "obj-148",
+            "title": "Hive Fortress",
+            "iconUrl": "/objects/hive_fortress.png",
+            "area": "High Five",
+            "x": 1726,
+            "y": 2423,
+            "z": 3,
+            "description": ""
+        },
+        {
+            "id": "obj-149",
+            "title": "Bayou Fortress",
+            "iconUrl": "/objects/bayou_fortress.png",
+            "area": "High Five",
+            "x": 2716,
+            "y": 1544,
+            "z": 3,
+            "description": ""
+        },
+        {
+            "id": "obj-150",
+            "title": "Ivory Fortress",
+            "iconUrl": "/objects/ivory_fortress.png",
+            "area": "High Five",
+            "x": 2044,
+            "y": 1334,
+            "z": 3,
+            "description": ""
+        }
+    ]
+}

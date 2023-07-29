@@ -1,0 +1,22 @@
+{
+    "types": [
+        {
+            "id": "category_3_type_0",
+            "title": "Monster Areas",
+            "icon": "gi-scarecrow",
+            "description": "Monster areas to gather loot and experience"
+        },
+        {
+            "id": "category_3_type_1",
+            "title": "Catacombs",
+            "icon": "gi-wolf-head",
+            "description": ""
+        },
+        {
+            "id": "category_3_type_2",
+            "title": "Necropolises",
+            "icon": "gi-boar",
+            "description": ""
+        }
+    ]
+}

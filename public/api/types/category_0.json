@@ -1,0 +1,16 @@
+{
+    "types": [
+        {
+            "id": "category_0_type_0",
+            "title": "Towns",
+            "icon": "gi-locked-chest",
+            "description": ""
+        },
+        {
+            "id": "category_0_type_1",
+            "title": "Villages",
+            "icon": "gi-locked-chest",
+            "description": ""
+        }
+    ]
+}

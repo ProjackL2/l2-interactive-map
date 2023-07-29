@@ -1,0 +1,34 @@
+{
+  "categories": [
+    {
+      "id": "category_0",
+      "title": "Settlements",
+      "icon": "/icons/icon-map.svg",
+      "description": "In-game settlements"
+    },
+    {
+      "id": "category_1",
+      "title": "Contestable",
+      "icon": "/icons/icon-map.svg",
+      "description": "Contestable zones and objects"
+    },
+    {
+      "id": "category_2",
+      "title": "Special",
+      "icon": "/icons/icon-map.svg",
+      "description": "Special in-game points of interest"
+    },
+    {
+      "id": "category_3",
+      "title": "Locations",
+      "icon": "/icons/icon-map.svg",
+      "description": "Farm locations for gathering in-game experience"
+    },
+    {
+      "id": "category_4",
+      "title": "Epic Bosses",
+      "icon": "/icons/icon-map.svg",
+      "description": "Game world bosses and epic raid bosses"
+    }
+  ]
+}

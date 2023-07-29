@@ -1,0 +1,64 @@
+{
+    "pins": [
+        {
+            "id": "obj-128",
+            "title": "Catacombs of the Witch",
+            "iconUrl": "/objects/catacombs_of_the_witch.png",
+            "area": "High Five",
+            "x": 2412,
+            "y": 1832,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-132",
+            "title": "Catacombs of the Branded",
+            "iconUrl": "/objects/catacombs_of_the_branded.png",
+            "area": "High Five",
+            "x": 1893,
+            "y": 2331,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-134",
+            "title": "Catacomb of the Heretics",
+            "iconUrl": "/objects/catacomb_of_the_heretics.png",
+            "area": "High Five",
+            "x": 1852,
+            "y": 2215,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-137",
+            "title": "Catacomb of the Apostate",
+            "iconUrl": "/objects/catacomb_of_the_apostate.png",
+            "area": "High Five",
+            "x": 2056,
+            "y": 1817,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-138",
+            "title": "Catacomp of the Forbidden Path",
+            "iconUrl": "/objects/catacomp_of_the_forbidden_path.png",
+            "area": "High Five",
+            "x": 2262,
+            "y": 1876,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-139",
+            "title": "Catacomb of the Dark Omens",
+            "iconUrl": "/objects/catacomb_of_the_dark_omens.png",
+            "area": "High Five",
+            "x": 1505,
+            "y": 1455,
+            "z": 60,
+            "description": ""
+        }
+    ]
+}

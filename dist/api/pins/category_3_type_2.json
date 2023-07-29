@@ -1,0 +1,85 @@
+{
+    "pins": [
+        {
+            "id": "obj-4",
+            "title": "Necropolis of Sacrifies",
+            "iconUrl": "/objects/necropolis_of_sacrifies.png",
+            "area": "High Five",
+            "x": 1411,
+            "y": 2542,
+            "z": 80,
+            "description": ""
+        },
+        {
+            "id": "obj-130",
+            "title": "Disciples Necropolis",
+            "iconUrl": "/objects/disciples_necropolis.png",
+            "area": "High Five",
+            "x": 2583,
+            "y": 1246,
+            "z": 80,
+            "description": ""
+        },
+        {
+            "id": "obj-131",
+            "title": "Piligrim Necropolis",
+            "iconUrl": "/objects/piligrim_necropolis.png",
+            "area": "High Five",
+            "x": 1889,
+            "y": 2084,
+            "z": 80,
+            "description": ""
+        },
+        {
+            "id": "obj-133",
+            "title": "Necropolis of Worship",
+            "iconUrl": "/objects/necropolis_of_worship.png",
+            "area": "High Five",
+            "x": 2250,
+            "y": 2356,
+            "z": 80,
+            "description": ""
+        },
+        {
+            "id": "obj-135",
+            "title": "Necropolis of Martyrdom",
+            "iconUrl": "/objects/necropolis_of_martyrdom.png",
+            "area": "High Five",
+            "x": 2325,
+            "y": 2114,
+            "z": 80,
+            "description": ""
+        },
+        {
+            "id": "obj-136",
+            "title": "The Saints Necropolis",
+            "iconUrl": "/objects/the_saints_necropolis.png",
+            "area": "High Five",
+            "x": 2112,
+            "y": 2558,
+            "z": 80,
+            "description": ""
+        },
+        {
+            "id": "obj-140",
+            "title": "The Patriots Necropolis",
+            "iconUrl": "/objects/the_patriots_necropolis.png",
+            "imageUrl": "/images/header_the_patriots_necropolis.jpg",
+            "area": "High Five",
+            "x": 1494,
+            "y": 1809,
+            "z": 80,
+            "description": "<p><b>Цикличный макрос</b> — отличается от обычного своей возможностью непрерывно повторяться.</p><br>\n<p>Вынеси макрос на панель, нажми по нему правой кнопкой мыши, и он будет циклично повторяться, пока ты не сделаешь какое-либо действие: переместишь персонажа, используешь предмет или умение, откроешь окно интерфейса. Можно зациклить только один макрос, и в него нельзя добавлять выполнение других макросов.</p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 214px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 140px;\"></div></div>"
+        },
+        {
+            "id": "obj-141",
+            "title": "Necropolis of Devotion",
+            "iconUrl": "/objects/necropolis_of_devotion.png",
+            "area": "High Five",
+            "x": 1329,
+            "y": 1825,
+            "z": 80,
+            "description": ""
+        }
+    ]
+}

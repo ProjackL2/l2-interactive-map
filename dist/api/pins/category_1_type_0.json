@@ -1,0 +1,103 @@
+{
+    "pins": [
+        {
+            "id": "obj-54",
+            "title": "Gludio Castle",
+            "iconUrl": "/objects/gludio_castle.png",
+            "imageUrl": "/images/header_gludio_castle.jpg",
+            "area": "High Five",
+            "x": 1516,
+            "y": 1930,
+            "z": 80,
+            "description": "<p><b>Замок Глудио</b> дарит своим владельцам полезные бонусы, которые помогут им в их сражениях и приключениях.</p><br>\n<p>Также любой владелец Форта или Клан Холла в этой территории получает часть от Замковых Бонусов.</p><br>\n<p>Ознакомиться с визуальными изменениями и новыми стратегиями захвата замка можно посмотрев данное <a href=\"https://www.youtube.com/watch?v=Fpg886DnKoM%20\" target=\"_blank\" rel=\"noopener\">видео.</a></p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 153px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 78px;\"></div></div>"
+        },
+        {
+            "id": "obj-92",
+            "title": "Aden Castle",
+            "iconUrl": "/objects/aden_castle.png",
+            "imageUrl": "/images/header_aden_castle.jpg",
+            "area": "High Five",
+            "x": 2471,
+            "y": 1278,
+            "z": 80,
+            "description": "Замок Адена теперь доступен для осады, и дарит своим владельцам полезные бонусы, которые помогут им в их сражениях и приключениях. Также любой владелец Форта или Клан Холла в этой территории получает часть от Замковых Бонусов.<br>\nОсады замков и Территориальные воины проходит 1 раз в 2 недели<div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 153px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 78px;\"></div></div>"
+        },
+        {
+            "id": "obj-94",
+            "title": "Goddard Castle",
+            "iconUrl": "/objects/goddard_castle.png",
+            "imageUrl": "/images/header_goddard_castle.jpg",
+            "area": "High Five",
+            "x": 2451,
+            "y": 1087,
+            "z": 80,
+            "description": "<p><b>Замок Годдарда</b> дарит своим владельцам полезные бонусы, которые помогут им в их сражениях и приключениях. Также любой владелец Форта или Клан Холла в этой территории получает часть от Замковых Бонусов. Осады замков и Территориальные воины проходит 1 раз в 2 недели</p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 153px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 0px;\"></div></div>"
+        },
+        {
+            "id": "obj-96",
+            "title": "Schuttgart Castle",
+            "iconUrl": "/objects/schuttgart_castle.png",
+            "imageUrl": "/images/header_schuttgart_castle.jpg",
+            "area": "High Five",
+            "x": 2070,
+            "y": 424,
+            "z": 80,
+            "description": "<p><b>Замок Шутгарта</b> дарит своим владельцам полезные бонусы, которые помогут им в их сражениях и приключениях.</p><br>\n<p>Также любой владелец Форта или Клан Холла в этой территории получает часть от Замковых Бонусов. Осады замков и Территориальные воины проходит 1 раз в 2 недели</p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 153px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 0px;\"></div></div>"
+        },
+        {
+            "id": "obj-142",
+            "title": "Innadril Castle",
+            "iconUrl": "/objects/innadril_castle.png",
+            "imageUrl": "/images/header_innadril_castle.jpg",
+            "area": "High Five",
+            "x": 2285,
+            "y": 2733,
+            "z": 80,
+            "description": "<p><b>Замок Иннадрил</b> в окрестностях Хейна, является отличным стратегическим убежищем для кланов которые хотят в последующем активно воевать за Парнас - одно из ключевых мест для фарма камней атрибута, куда будут доступны дополнительные телепорты с КХ и Замка.</p><br>\n<p>Ознакомиться с визуальными изменениями и новыми стратегиями захвата замка можно посмотрев данное <a href=\"https://www.youtube.com/watch?v=Fpg886DnKoM%20\" target=\"_blank\" rel=\"noopener\">видео.</a></p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 256px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 218px;\"></div></div>"
+        },
+        {
+            "id": "obj-143",
+            "title": "Giran Castle",
+            "iconUrl": "/objects/giran_castle.png",
+            "imageUrl": "/images/header_giran_castle.jpg",
+            "area": "High Five",
+            "x": 2288,
+            "y": 2134,
+            "z": 80,
+            "description": "<p><b>Замок Гиран</b> дарит своим владельцам полезные бонусы, которые помогут им в их сражениях и приключениях.</p><br>\n<p>Также любой владелец Форта или Клан Холла в этой территории получает часть от Замковых Бонусов. Осада замков проходит 1 раз в 2 недели. Доступны Территориальные войны.</p><br>\n<p>Ознакомиться с визуальными изменениями и новыми стратегиями захвата замка можно посмотрев данное <a href=\"https://www.youtube.com/watch?v=Fpg886DnKoM%20\" target=\"_blank\" rel=\"noopener\">видео.</a></p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 256px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 187px;\"></div></div>"
+        },
+        {
+            "id": "obj-144",
+            "title": "Dion Castle",
+            "iconUrl": "/objects/dion_castle.png",
+            "imageUrl": "/images/header_dion_castle.jpg",
+            "area": "High Five",
+            "x": 1759,
+            "y": 2218,
+            "z": 80,
+            "description": "<p><b>Замок Дион</b> дарит своим владельцам полезные бонусы, которые помогут им в их сражениях и приключениях.</p><br>\n<p>Также любой владелец Форта или Клан Холла в этой территории получает часть от Замковых Бонусов. Осада замков проходит 1 раз в 2 недели.</p><br>\n<p>Теперь доступны Территориальные войны, которые тоже проходят 1 раз в 2 недели.</p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 256px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 218px;\"></div></div>"
+        },
+        {
+            "id": "obj-145",
+            "title": "Oren Castle",
+            "iconUrl": "/objects/oren_castle.png",
+            "imageUrl": "/images/header_oren_castle.jpg",
+            "area": "High Five",
+            "x": 2092,
+            "y": 1515,
+            "z": 80,
+            "description": "<p>Замок Орен дарит своим владельцам полезные бонусы, которые помогут им в их сражениях и приключениях.</p><br>\n<p>Также любой владелец Форта или Клан Холла в этой территории получает часть от Замковых Бонусов. Осада замков проходит 1 раз в 2 недели. Теперь доступны Территориальные войны, которые тоже проходят 1 раз в 2 недели.</p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 256px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 218px;\"></div></div>"
+        },
+        {
+            "id": "obj-146",
+            "title": "Rune Castle",
+            "iconUrl": "/objects/rune_castle.png",
+            "imageUrl": "/images/header_rune_castle.jpg",
+            "area": "High Five",
+            "x": 1683,
+            "y": 1019,
+            "z": 80,
+            "description": "<p><b>Замок Руны теперь доступен для осады</b>, и дарит своим владельцам полезные бонусы, которые помогут им в их сражениях и приключениях.</p><br>\n<p>Также любой владелец Форта или Клан Хола в этой территории получает часть от Замковых Бонусов. Осады замков и Территориальные воины проходит 1 раз в 2 недели</p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 256px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 0px;\"></div></div>"
+        }
+    ]
+}

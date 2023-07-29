@@ -1,0 +1,34 @@
+{
+    "types": [
+        {
+            "id": "category_2_type_0",
+            "title": "Arenas",
+            "icon": "gi-shopping-bag",
+            "description": ""
+        },
+        {
+            "id": "category_2_type_1",
+            "title": "Zones",
+            "icon": "gi-bank",
+            "description": ""
+        },
+        {
+            "id": "category_2_type_2",
+            "title": "Harbors",
+            "icon": "gi-bank",
+            "description": ""
+        },
+        {
+            "id": "category_2_type_3",
+            "title": "Hellbound",
+            "icon": "gi-plant-seed",
+            "description": ""
+        },
+        {
+            "id": "category_2_type_4",
+            "title": "Gracia",
+            "icon": "gi-plant-seed",
+            "description": ""
+        }
+    ]
+}

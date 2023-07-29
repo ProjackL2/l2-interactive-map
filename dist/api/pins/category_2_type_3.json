@@ -1,0 +1,97 @@
+{
+    "pins": [
+        {
+            "id": "obj-111",
+            "title": "Caravan Encampment",
+            "iconUrl": "/objects/caravan_encampment.png",
+            "area": "High Five",
+            "x": 1617,
+            "y": 2837,
+            "z": 80,
+            "description": ""
+        },
+        {
+            "id": "obj-112",
+            "title": "Enchanted Megaliths",
+            "iconUrl": "/objects/enchanted_megaliths.png",
+            "area": "High Five",
+            "x": 1531,
+            "y": 2780,
+            "z": 80,
+            "description": ""
+        },
+        {
+            "id": "obj-113",
+            "title": "Entrance",
+            "iconUrl": "/objects/entrance.png",
+            "area": "High Five",
+            "x": 1568,
+            "y": 2740,
+            "z": 80,
+            "description": ""
+        },
+        {
+            "id": "obj-114",
+            "title": "Quarry",
+            "iconUrl": "/objects/quarry.png",
+            "area": "High Five",
+            "x": 1628,
+            "y": 2773,
+            "z": 80,
+            "description": ""
+        },
+        {
+            "id": "obj-115",
+            "title": "Ancient Temple",
+            "iconUrl": "/objects/ancient_temple.png",
+            "area": "High Five",
+            "x": 1509,
+            "y": 2847,
+            "z": 80,
+            "description": ""
+        },
+        {
+            "id": "obj-124",
+            "title": "Steel Citadel",
+            "iconUrl": "/objects/steel_citadel.png",
+            "area": "High Five",
+            "x": 1742,
+            "y": 2744,
+            "z": 80,
+            "description": ""
+        },
+        {
+            "id": "obj-125",
+            "title": "Anomic Foundry",
+            "iconUrl": "/objects/anomic_foundry.png",
+            "imageUrl": "/images/header_anomic_foundry.jpg",
+            "area": "High Five",
+            "x": 1796,
+            "y": 2806,
+            "z": 80,
+            "description": "<p><span>На данном этапе добавлена новая фарм зона на всеми любимом Острове Ада -&nbsp;</span><strong>Литейная</strong><span>.</span></p><br>\n<p><br><span>Данная зона представляет собой несколько конкретных спотов, на которых&nbsp;можно получать значительный опыт и&nbsp;попытать счастье в крафте&nbsp;</span><strong>Icarus<span>&nbsp;</span></strong><span>оружия (а это единственная&nbsp;на данный момент возможность получить&nbsp;</span><strong>Rare<span>&nbsp;</span></strong><span>предмет).</span></p><br>\n<p></p><br>\n<p><span><strong>Как попасть?</strong></span></p><br>\n<ul><br>\n<li>Между верхними и нижними спотами Chimeras находятся огромные ворота (которые обычно ведут к старому городу). Там вы сможете найти NPC&nbsp;<strong>Anomic Foundry Explorer</strong>, который телепортирует любого игрока в Литейные (бесплатно).<br>\n<ul><br>\n<li>Обратите внимания, что брать квест для перемещение на локацию не обязательно, однако вы упустите возможность добыть куски и рецепты на экипировку Icarus.</li><br>\n</ul><br>\n</li><br>\n</ul><br>\n<p><span><strong>Что ждет внутри?</strong></span></p><br>\n<ul><br>\n<li><strong>Монстры</strong><br>\n<ul><br>\n<li>Уровень:<span>&nbsp;</span><strong>82-83</strong>;</li><br>\n<li>Состояние: Агрессивные, социальные;</li><br>\n<li>Раса:<span>&nbsp;</span><strong>Undead</strong>.<br>\n<ul><br>\n<li>Обратите внимание, что для того, что бы&nbsp;наносить летальную атаку с умения&nbsp;<span class=\"skill-db completed\"><span class=\"item-db__image\"><img alt=\"skill1400.png\" data-ratio=\"100.00\" data-src=\"/template/panel/assets/media/icon/61/icon/skill1400.png\" src=\"/template/panel/assets/media/icon/61/icon/skill1400.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"></span>Turn Undead</span><span>&nbsp;</span>(и аналогичные) вам необходимо заточить его на +16 и выше.</li><br>\n</ul><br>\n</li><br>\n</ul><br>\n</li><br>\n<li><strong>Добыча</strong><br>\n<ul><br>\n<li>Дроп:<br>\n<ul><br>\n<li><span class=\"item-db item-db-completed\"><span class=\"item-db__image\"><img alt=\"etc_old_evil_book_i00.png\" data-ratio=\"100.00\" data-src=\"/template/panel/assets/media/icon/61/icon/etc_old_evil_book_i00.png\" src=\"/template/panel/assets/media/icon/61/icon/etc_old_evil_book_i00.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"></span>Ancient Tome of the Demon</span>&nbsp;- 2-8, 70%;</li><br>\n<li>Все<span>&nbsp;</span><img alt=\"etc_water_stone_i00.png\" data-ratio=\"100.00\" data-src=\"/template/panel/assets/media/icon/61/icon/etc_water_stone_i00.png\" src=\"/template/panel/assets/media/icon/61/icon/etc_water_stone_i00.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\">&nbsp;Камни Атрибутов;</li><br>\n<li><img alt=\"armor_t89_ul_i00.png\" data-ratio=\"100.00\" data-src=\"/template/panel/assets/media/icon/61/icon/armor_t89_ul_i00.png\" src=\"/template/panel/assets/media/icon/61/icon/armor_t89_ul_i00.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\">&nbsp;S-gr экипировку (оружия и броня)</li><br>\n<li><img alt=\"etc_piece_bone_white_i00.png\" data-ratio=\"100.00\" data-src=\"/template/panel/assets/media/icon/61/icon/etc_piece_bone_white_i00.png\" src=\"/template/panel/assets/media/icon/61/icon/etc_piece_bone_white_i00.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\">&nbsp;Ресурсы,<span>&nbsp;</span><span class=\"item-db item-db-completed\"><span class=\"item-db__image\"><img alt=\"etc_bead_silver_i00.png\" data-ratio=\"100.00\" data-src=\"/template/panel/assets/media/icon/61/icon/etc_bead_silver_i00.png\" src=\"/template/panel/assets/media/icon/61/icon/etc_bead_silver_i00.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"></span>Gemstone S</span>,&nbsp;<span class=\"item-db item-db-completed\"><span class=\"item-db__image\"><img alt=\"etc_adena_i00.png\" data-ratio=\"100.00\" data-src=\"/template/panel/assets/media/icon/61/icon/etc_adena_i00.png\" src=\"/template/panel/assets/media/icon/61/icon/etc_adena_i00.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"></span>Adena</span>;<br>&nbsp;</li><br>\n</ul><br>\n</li><br>\n<li>Споил:<br>\n<ul><br>\n<li><span class=\"item-db item-db-completed\"><span class=\"item-db__image\"><img alt=\"etc_bead_silver_i00.png\" data-ratio=\"100.00\" data-src=\"/template/panel/assets/media/icon/61/icon/etc_bead_silver_i00.png\" src=\"/template/panel/assets/media/icon/61/icon/etc_bead_silver_i00.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"></span>Gemstone S<span>&nbsp;</span></span>;</li><br>\n<li><span class=\"item-db item-db-completed\"><span class=\"item-db__image\"><img alt=\"etc_codex_of_giant_i00.png\" data-ratio=\"100.00\" data-src=\"/template/panel/assets/media/icon/61/icon/etc_codex_of_giant_i00.png\" src=\"/template/panel/assets/media/icon/61/icon/etc_codex_of_giant_i00.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"></span>Giant's Codex</span>,<span>&nbsp;</span><span class=\"item-db item-db-completed\"><span class=\"item-db__image\"><img alt=\"etc_codex_of_giant_i03.png\" data-ratio=\"100.00\" data-src=\"/template/panel/assets/media/icon/61/icon/etc_codex_of_giant_i03.png\" src=\"/template/panel/assets/media/icon/61/icon/etc_codex_of_giant_i03.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"></span>Giant's Codex - Mastery<span>&nbsp;</span></span>;</li><br>\n<li><span class=\"item-db item-db-completed\"><span class=\"item-db__image\"><img alt=\"etc_blessed_scrl_of_ench_wp_s_i05.png\" data-ratio=\"100.00\" data-src=\"/template/panel/assets/media/icon/61/icon/etc_blessed_scrl_of_ench_wp_s_i05.png\" src=\"/template/panel/assets/media/icon/61/icon/etc_blessed_scrl_of_ench_wp_s_i05.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"></span>Blessed Scroll: Enchant Weapon (S-Grade)</span>;<span>&nbsp;</span><span class=\"item-db item-db-completed\"><span class=\"item-db__image\"><img alt=\"etc_blessed_scrl_of_ench_am_s_i05.png\" data-ratio=\"100.00\" data-src=\"/template/panel/assets/media/icon/61/icon/etc_blessed_scrl_of_ench_am_s_i05.png\" src=\"/template/panel/assets/media/icon/61/icon/etc_blessed_scrl_of_ench_am_s_i05.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"></span>Blessed Scroll: Enchant Armor (S-Grade)</span>.<br>&nbsp;</li><br>\n</ul><br>\n</li><br>\n<li>Квест:<br>\n<ul><br>\n<li>Посетите NPC&nbsp;<strong>Jude<span>&nbsp;</span></strong>и возьмите у него квест, который называется<span>&nbsp;</span><strong>Jude Request</strong>. Он&nbsp;попросит вас принести:<br>\n<ul><br>\n<li>Для случайной&nbsp;награда:<br>\n<ul><br>\n<li>200&nbsp;<span class=\"item-db item-db-completed\"><span class=\"item-db__image\"><img alt=\"etc_sting_b_i00.png\" data-ratio=\"100.00\" data-src=\"/template/panel/assets/media/icon/61/icon/etc_sting_b_i00.png\" src=\"/template/panel/assets/media/icon/61/icon/etc_sting_b_i00.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"></span>Evil Weapon<span>&nbsp;</span></span>(Оружие Зла) в обмен на случайный рецепт Icarus оружия;</li><br>\n<li>5&nbsp;<span class=\"item-db item-db-completed\"><span class=\"item-db__image\"><img alt=\"etc_sting_b_i00.png\" data-ratio=\"100.00\" data-src=\"/template/panel/assets/media/icon/61/icon/etc_sting_b_i00.png\" src=\"/template/panel/assets/media/icon/61/icon/etc_sting_b_i00.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"></span>Evil Weapon<span>&nbsp;</span></span>(Оружие Зла) в обмен на три случайных&nbsp;куска Icarus оружия;</li><br>\n</ul><br>\n</li><br>\n<li>Для гарантированной&nbsp;награды:<br>\n<ul><br>\n<li>1000&nbsp;<span class=\"item-db item-db-completed\"><span class=\"item-db__image\"><img alt=\"etc_sting_b_i00.png\" data-ratio=\"100.00\" data-src=\"/template/panel/assets/media/icon/61/icon/etc_sting_b_i00.png\" src=\"/template/panel/assets/media/icon/61/icon/etc_sting_b_i00.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"></span>Evil Weapon<span>&nbsp;</span></span>(Оружие Зла) в обмен на конкретный рецепт Icarus оружия;</li><br>\n<li>15&nbsp;<span class=\"item-db item-db-completed\"><span class=\"item-db__image\"><img alt=\"etc_sting_b_i00.png\" data-ratio=\"100.00\" data-src=\"/template/panel/assets/media/icon/61/icon/etc_sting_b_i00.png\" src=\"/template/panel/assets/media/icon/61/icon/etc_sting_b_i00.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"></span>Evil Weapon<span>&nbsp;</span></span>(Оружие Зла) в обмен на один&nbsp;конкретный&nbsp;кусок&nbsp;Icarus оружия.<br>&nbsp;</li><br>\n</ul><br>\n</li><br>\n</ul><br>\n</li><br>\n</ul><br>\n</li><br>\n</ul><br>\n</li><br>\n<li><strong>Споты</strong><br>\n<ul><br>\n<li>Количество: ~5;</li><br>\n<li>Респаун монстров: 60-120 секунд.</li><br>\n</ul><br>\n</li><br>\n</ul><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 256px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 18px;\"></div></div>"
+        },
+        {
+            "id": "obj-176",
+            "title": "Hellbound",
+            "iconUrl": "/objects/hellbound.png",
+            "imageUrl": "/images/header_hellbound.jpg",
+            "area": "High Five",
+            "x": 1503,
+            "y": 2704,
+            "z": -100,
+            "description": "<p><b>Остров Сплетений Ада</b> - остров, находящий на юге от основного континента и стал пристанищем Белефа, после его побега из темниц Башни Слоновой Кости. Белеф окружил остров непреодолимым магическим барьером и попасть туда можно только через два портала: В Хейне и Пустоше (Wasteland). На данном этапе Белеф скрывается в просторах Hellbound, и будет доступен игрокам с четвертой стадии. На этой стадии Остров Ада (Hellbound) Игрокам будут доступны такие споты для фарма, которые были расширены:</p><br>\n<p><b>1.</b> Начальные споты с саммонерами</p><br>\n<p><b>2.</b> Каменоломня с вампирами</p><br>\n<p><b>3.</b> Грин спот</p><br>\n<p><b>4.</b> Химеры</p><br>\n<p><b>5.</b> Литейная</p><br>\n<p>Beleth закончил свои блуждания по острову. Теперь он мировой босс 82 уровня, с вечерним респауном в 7 дней +1 час рандома.</p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 256px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 90px;\"></div></div>"
+        },
+        {
+            "id": "obj-177",
+            "title": "Beleth",
+            "iconUrl": "/objects/beleth.png",
+            "imageUrl": "/images/header_beleth.jpg",
+            "area": "High Five",
+            "x": 1585,
+            "y": 2807,
+            "z": 120,
+            "description": "<p><b>Beleth</b> закончил свои блуждания по острову, и решил остановиться в районе Грин Спота.</p><br>\n<p>Теперь он мировой босс 82 уровня, с вечерним респауном в 7 дней (<b>Каждый четверг</b>) +1 час рандома. Зайти к нему можно через Кристалл который расположен перед спотом со скорпионами, где располагался ранее оазис.</p><br>\n<p><b>Логика захода как на Frintezza: </b></p><br>\n<p>заход ЦЦ происходит не моментально, но в течении 30-60 секунд с момента нажатия на заход. Если за это время ЦЦ лидер (заводящий персонаж) умрёт либо отойдёт от НПЦ на расстояние &gt; 1000 - заход будет отменён. Вместо квеста, ЦЦ лидеру необходимо иметь 3й уровень доверия.</p><br>\n<p>Дроп:</p><br>\n<p><img alt=\"beleth_ring.png\" data-ratio=\"100.00\" data-src=\"/icon/beleth_ring.png\" src=\"/icon/beleth_ring.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"><span> 100%</span></p><br>\n<p><img alt=\"armor_t100_u_i00.png\" data-ratio=\"100.00\" data-src=\"/icon/armor_t100_u_i00.png\" src=\"/icon/armor_t100_u_i00.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"><span> Moirai экипировка</span><br><img alt=\"armor_t93_u_i00.png\" data-ratio=\"100.00\" data-src=\"/icon/armor_t93_u_i00.png\" src=\"/icon/armor_t93_u_i00.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"><span> Dynasty экипировка</span><br><img alt=\"armor_t96_u_i00.png\" data-ratio=\"100.00\" data-src=\"/icon/armor_t96_u_i00.png\" src=\"/icon/armor_t96_u_i00.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"><span> Vesper экипировка</span><br><img alt=\"br_spell_books_magic_i00.png\" data-ratio=\"100.00\" data-src=\"/icon/br_spell_books_magic_i00.png\" src=\"/icon/br_spell_books_magic_i00.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"><span> Will's (все типы)</span><br><img alt=\"Protection_of_Elemental.png\" data-ratio=\"100.00\" data-src=\"/icon/Protection_of_Elemental.png\" src=\"/icon/Protection_of_Elemental.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"><span> Protection's (все типы)</span></p><br>\n<p></p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 256px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 80px;\"></div></div>"
+        }
+    ]
+}

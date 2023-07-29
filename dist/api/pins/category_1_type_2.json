@@ -1,0 +1,65 @@
+{
+    "pins": [
+        {
+            "id": "obj-17",
+            "title": "Bandit Stronghold",
+            "iconUrl": "/objects/bandit_stronghold.png",
+            "area": "High Five",
+            "x": 2129,
+            "y": 1246,
+            "z": 3,
+            "description": ""
+        },
+        {
+            "id": "obj-45",
+            "title": "Devastated Castle",
+            "iconUrl": "/objects/devastated_castle.png",
+            "area": "High Five",
+            "x": 2640,
+            "y": 1229,
+            "z": 3,
+            "description": ""
+        },
+        {
+            "id": "obj-51",
+            "title": "Wild Beast Reserve",
+            "iconUrl": "/objects/beast_reserve.png",
+            "area": "High Five",
+            "x": 1985,
+            "y": 823,
+            "z": 3,
+            "description": ""
+        },
+        {
+            "id": "obj-19",
+            "title": "Fortress of Resistance",
+            "iconUrl": "/objects/fortress_of_resistance.png",
+            "area": "High Five",
+            "x": 1900,
+            "y": 1980,
+            "z": 3,
+            "description": ""
+        },
+        {
+            "id": "obj-40",
+            "title": "Rainbow Springs Chateau",
+            "iconUrl": "/objects/rainbow_springs_chateau.png",
+            "imageUrl": "/images/header_rainbow_springs_chateau.jpg",
+            "area": "High Five",
+            "x": 2455,
+            "y": 631,
+            "z": 3,
+            "description": "<p>На наш сервер был добавлен \"новый\" Clan Hall<strong> Rainbow Springs Chateau</strong><span> </span>и теперь он доступен для захвата! Многие игроки знают и помнят, что данный КХ был добавлен в игру еще в далеких<span> </span><strong>Chronicle 4: Scions of Destiny</strong><span> </span>(C4), однако он почти нигде не работал корректно и многие игроки просили нас ввести этот интересный КХ! <span>Что ж, мы справились и внеся некоторые изменения для небольшой актуализации данного контента, готовы предоставить его на ваш суд!</span></p><br>\n<p><span>Детально описывать логику его захвата - мы не будем, так как гайдов достаточно в интернете, снизу есть краткий текстовый и видео гайд, а еще все диалоги с NPC достаточно понятные и ведут вас шаг за шагом.</span></p><br>\n<p><span>Общее описание:</span></p><br>\n<p><span>Начнем с того, что это не типичный захват КХ. Тут вам предстоит познакомиться с необычными механиками, которые были призваны скрасить обычную игровую рутину;</span></p><br>\n<p><span>Для регистрации на осаду Clan Hall-a вам понадобятся специальные предметы - </span><span class=\"skill-db completed\"><span class=\"item-db__image\"><img alt=\"etc_hs_agit_war_joining_certificate_i00.\" data-ratio=\"100.00\" data-src=\"/wiki/icon/etc_hs_agit_war_joining_certificate_i00.png\" src=\"/wiki/icon/etc_hs_agit_war_joining_certificate_i00.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"></span><strong>Rainbow Springs Clan Hall War Decree</strong></span><span>, которые <a href=\"/wiki/item/8034-rainbow-springs-clan-hall-war-decree\" rel=\"external nofollow noopener\" target=\"_blank\">можно добыть с монстров</a> (ссылка на список монстров) и Боссов в локации </span><img alt=\"Etc egg bundle i00 0.jpg\" data-ratio=\"100.00\" data-src=\"https://linedia.ru/w/images/b/b4/Etc_egg_bundle_i00_0.jpg\" src=\"https://linedia.ru/w/images/b/b4/Etc_egg_bundle_i00_0.jpg\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"><span> <strong>Hot Springs</strong>;</span></p><br>\n<p>Для старта осады - требуется минимум 2 зарегистрированных клана, однако максимум кланов, которые будут участвовать - 4. При регистрации большего количества - выбраны будут те, которые принесли больше вышеописанных предметов (билетов);</p><br>\n<p>Далее вам необходимо следовать инструкциям распорядителя Арены, убивать кулаками сундуки, добывать из них буквы, которые далее складывать в запрашиваемые слова;</p><br>\n<p>Цель этого действия - как можно быстрее уничтожить вашу тыкву (быстрее соперников).</p><br>\n<p>Более детальное описание вы сможете найти непосредственно в игре. Мы рекомендуем всем хотя бы раз поучаствовать в этой осаде (при случае), а также<span> </span><strong>получать удовольствие</strong><span> </span>от игры и всего процесса.</p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 214px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 30px;\"></div></div>"
+        },
+        {
+            "id": "obj-49",
+            "title": "Fortress of the Dead",
+            "iconUrl": "/objects/fortress_of_the_dead.png",
+            "area": "High Five",
+            "x": 1961,
+            "y": 1200,
+            "z": 3,
+            "description": ""
+        }
+    ]
+}

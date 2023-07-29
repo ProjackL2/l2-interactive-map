@@ -1,0 +1,655 @@
+{
+    "pins": [
+        {
+            "id": "obj-9",
+            "title": "Swampland",
+            "iconUrl": "/objects/swampland.png",
+            "area": "High Five",
+            "x": 1532,
+            "y": 1574,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-12",
+            "title": "Elven Forest",
+            "iconUrl": "/objects/elven_forest.png",
+            "area": "High Five",
+            "x": 1764,
+            "y": 1613,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-13",
+            "title": "Shadow of the Mother Tree",
+            "iconUrl": "/objects/shadow_of_the_mother_tree.png",
+"imageUrl": "/images/header_shadow_of_the_mother_tree.jpg",
+            "area": "High Five",
+            "x": 1892,
+            "y": 1544,
+            "z": 60,
+            "description": "<p>Привет! Наливай себе чайку, усаживайся поудобнее и полетели.</p><br>\n<p>Что же такое <b>МастерВорк</b>?</p><br>\n<p><b>MasterWork</b> — это аналогия с рарным предметом из мира Lineage2, продукт, который был объединен из нескольких ценных элементов и стал качественнее и ценнее прочих. Мастерворк — это логика NCSoft и адаптация от команды <b>E-Global &amp; Averia.</b></p><br>\n<p>Хотим отметить, что без вмешательства в основополагающие механики не обошлось. Некоторые скилы, локации и боссы были пересмотрены, так как справедливый баланс и комфортная игра за любой класс - это именно то, что должно стоять во главе стола.<b></b></p><br>\n<p></p><br>\n<p>Ознакомиться с детальными изменениями в умениях твоего любимого класса <a href=\"/forum/topic/197661-masterwork-ii-umeniya-i-mehaniki/\" target=\"_blank\" rel=\"noopener\">можно в этой теме.</a></p><br>\n<p></p><br>\n<p>А еще&nbsp;<span>Мы рады представить вашему вниманию Стартовые Наборы, которые будут доступны на старте Второго сезона&nbsp;</span><strong>MasterWork</strong><span>!</span></p><br>\n<p><strong>Общая информация:</strong></p><br>\n<ul><br>\n<li>Основная логика - \"<b>All in one</b>\" - сочетание как необходимых для старта предметов, так и эксклюзивного ассортимента.</li><br>\n<li>Единственная возможность получить некоторые уникальные предметы, такие как Ездовой Агатион, MW Кольца, Предметы восстановления Vitality и Персональный Плащ, которые можно будет надевать с первого уровня, вне зависимости от уровня Вашего персонажа.</li><br>\n<li>Стартовые Наборы Вы имеете возможность купить, как в<span>&nbsp;</span><a href=\"/cabinet/shop\" rel=\"external nofollow noopener\" target=\"_blank\">Личном Кабинете</a>, так и внутри игры, у NPC MW Store Butler - за<span>&nbsp;</span><i>передаваемые<span>&nbsp;</span></i>Master Coins.</li><br>\n<li>Обмен Купонов на D-grade экипировку находится у NPC MW Store Butler в разделе \"Наборы\".</li><br>\n<li>Обмен Купонов на Головные Уборы находится у NPC Battle Pass manager Rylai в Гиране.</li><br>\n<li>Все предметы экипировки (оружие, броня, бижутерия) - персональные, безвременные. Их нельзя продать в магазин либо кристаллизировать. Их можно точить, шанс заточки у них такой же, как и у обычных предметов-аналогов. При сломе - персонаж получает 0 кристаллов. Сетовые части предметов из наборов не сочетаются с обычными предметами.</li><br>\n</ul><br>\n<p>Ознакомиться с детальной информацией о наборах можно <a href=\"/forum/topic/197769-masterwork-ii-startovye-nabory/\" target=\"_blank\" rel=\"noopener\"><b>по ссылке.</b></a></p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 111px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 6px;\"></div></div>"
+        },
+        {
+            "id": "obj-14",
+            "title": "Devils Pass",
+            "iconUrl": "/objects/devils_pass.png",
+            "area": "High Five",
+            "x": 2231,
+            "y": 968,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-16",
+            "title": "Altar of Rites",
+            "iconUrl": "/objects/altar_of_rites.png",
+            "area": "High Five",
+            "x": 1403,
+            "y": 1761,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-22",
+            "title": "Execution Grounds",
+            "iconUrl": "/objects/execution_grounds.png",
+            "imageUrl": "/images/header_execution_grounds.jpg",
+            "area": "High Five",
+            "x": 1892,
+            "y": 2154,
+            "z": 60,
+            "description": "<p><b>Улучшение визуала локаций. </b></p><br>\n<p>Некоторые локации в плане рельефа и визуальной составляющей были перенесены с последних хроник: Пустошь (<b>Wasteland</b>), Земля Казненных (<b>Execution Grounds</b>), Остров Ада (<b>Hellbound</b>).</p><br>\n<p>В последней локации поменялись не только текстуры и рельеф, но и точки респауна мобов и их споты.</p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 256px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 238px;\"></div></div>"
+        },
+        {
+            "id": "obj-23",
+            "title": "Orc Barracks",
+            "iconUrl": "/objects/orc_barracks.png",
+            "area": "High Five",
+            "x": 1094,
+            "y": 1989,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-24",
+            "title": "Ruins of Despair",
+            "iconUrl": "/objects/ruins_of_despair.png",
+            "area": "High Five",
+            "x": 1545,
+            "y": 2161,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-25",
+            "title": "Abandoned Camp",
+            "iconUrl": "/objects/abandoned_camp.png",
+            "area": "High Five",
+            "x": 1309,
+            "y": 2136,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-26",
+            "title": "School of Dark Arts",
+            "iconUrl": "/objects/school_of_dark_arts.png",
+            "area": "High Five",
+            "x": 1393,
+            "y": 1634,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-27",
+            "title": "Ruins of Agony",
+            "iconUrl": "/objects/ruins_of_agony.png",
+            "area": "High Five",
+            "x": 1387,
+            "y": 2003,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-29",
+            "title": "Langk Lizardmen Dwellings",
+            "iconUrl": "/objects/langk_lizardmen_dwellings.png",
+            "area": "High Five",
+            "x": 1362,
+            "y": 2565,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-31",
+            "title": "Hot Springs",
+            "iconUrl": "/objects/hot_springs.png",
+            "area": "High Five",
+            "x": 2484,
+            "y": 708,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-32",
+            "title": "Mithril Mines",
+            "iconUrl": "/objects/mithril_mines.png",
+            "area": "High Five",
+            "x": 2686,
+            "y": 325,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-33",
+            "title": "Forgotten Temple",
+            "iconUrl": "/objects/forgotten_temple.png",
+            "area": "High Five",
+            "x": 1362,
+            "y": 2441,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-36",
+            "title": "Tanor Canyon",
+            "iconUrl": "/objects/tanor_canyon.png",
+            "area": "High Five",
+            "x": 1976,
+            "y": 2262,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-39",
+            "title": "Abandoned Coal Mines",
+            "iconUrl": "/objects/abandoned_coal_mines.png",
+            "area": "High Five",
+            "x": 2463,
+            "y": 337,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-43",
+            "title": "The Cemetery",
+            "iconUrl": "/objects/the_cemetery.png",
+            "area": "High Five",
+            "x": 2640,
+            "y": 1460,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-46",
+            "title": "The Forest of Mirrors",
+            "iconUrl": "/objects/the_forest_of_mirrors.png",
+            "area": "High Five",
+            "x": 2501,
+            "y": 1873,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-47",
+            "title": "The Forbidden Gateway",
+            "iconUrl": "/objects/the_forbidden_gateway.png",
+            "imageUrl": "/images/header_the_forbidden_gateway.jpg",
+            "area": "High Five",
+            "x": 2754,
+            "y": 1485,
+            "z": 60,
+            "description": "<p><b>Изменения связынные с Soul Crystals</b></p><br>\n<p><span><strong>SA в Best D-grade</strong></span><br>Теперь в<span> </span><strong>Best D-grade</strong><span> </span>Экипировку возможно вставить<span> </span><strong>SA</strong>!</p><br>\n<p>Вставка происходит в кузницах у NPC, по аналогии с C и B-gr. оружием.<br>Для вставки SA нужны:</p><br>\n<ul><br>\n<li><a data-ipslightbox=\"\" data-ipslightbox-group=\"undefined\" data-wrappedlink=\"\" href=\"https://linedia.ru/w/images/c/cb/Weapon_life_stick_i00_0.jpg\" rel=\"external nofollow noopener\" target=\"_blank\" title=\"Увеличить изображение\"><img alt=\"spacer.png\" data-ratio=\"100.00\" data-src=\"https://linedia.ru/w/images/c/cb/Weapon_life_stick_i00_0.jpg\" src=\"https://linedia.ru/w/images/c/cb/Weapon_life_stick_i00_0.jpg\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\" height=\"32\"></a> Best D-gr. Оружие (то, которое делается в помощью крафта и дропа, но не продается в магазине за адену на первой стадии сервера);</li><br>\n<li><span class=\"skill-db completed\"><span class=\"item-db__image\"><a href=\"/wiki/icon/etc_soul_stone_i00.png\" title=\"Увеличить изображение\" data-wrappedlink=\"\" data-ipslightbox=\"\" data-ipslightbox-group=\"undefined\"><img alt=\"etc_soul_stone_i00.png\" data-ratio=\"100.00\" data-src=\"/wiki/icon/etc_soul_stone_i00.png\" src=\"/wiki/icon/etc_soul_stone_i00.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"></a></span>Red Soul Crystal - Stage 4</span> Soul Crystal<span> </span><u>4-го уровня;</u></li><br>\n<li><span class=\"skill-db completed\"><span class=\"item-db__image\"><a href=\"/wiki/icon/etc_crystal_ball_silver_i00.png\" title=\"Увеличить изображение\" data-wrappedlink=\"\" data-ipslightbox=\"\" data-ipslightbox-group=\"undefined\"><img alt=\"etc_crystal_ball_silver_i00.png\" data-ratio=\"100.00\" data-src=\"/wiki/icon/etc_crystal_ball_silver_i00.png\" src=\"/wiki/icon/etc_crystal_ball_silver_i00.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"></a></span></span>152 D Gemstones (стоимость в магазинах - 1.000 adena / шт. без учёта налога замка).</li><br>\n</ul><br>\n<p>С детальной <b>информацией о Новых СА для оружия D-gr и выше</b>, можно ознакомиться по <a href=\"/forum/topic/198619-masterwork-ii-predmety-i-osobennosti/#soulcrystal-tab-2\" target=\"_blank\" rel=\"noopener\">ссылке</a></p><br>\n<p><span><strong>Люксор:</strong></span></p><br>\n<p>Расширен ассортимент покупки и обмена SA у Armor Merchant Alexandria в Luxury Shop Giran'a:</p><br>\n<p>Возможно купить СА 4 - 10 уровней за кристаллы;</p><br>\n<p>Возможно обменять цвета СА 11-13 уровней в рамках одного уровня СА. К примеру, 11 красный на 11 синий;</p><br>\n<p>По мере развития сервера, с переходом на следующие стадии, ассортимент, как Покупки, так и Обмена СА - будет расширятся. </p><br>\n<p><span><strong>Новые РБ для прокачки СА:</strong></span></p><br>\n<p>Прокачка СА на<span> </span><a href=\"/forum/topic/197824-masterwork-ii-raspisanie-epicheskih-bossov/\" rel=\"noopener\" target=\"_blank\">Эпических Боссах</a> Первой Стадии <br>(Королева Муравьёв, Орфен, Ядро):</p><br>\n<p>10 =&gt; 11 = 50% шанс для каждого члена добивающей группы;</p><br>\n<p>11 =&gt; 12 = 30% шанс для каждого члена добивающей группы;</p><br>\n<p>12 =&gt; 13 = 15% для каждого члена добивающей группы.</p><br>\n<p>По мере развития сервера, с переходом на следующие стадии, уровни прокачки СА, шанс и количество Боссов - будут расти:</p><br>\n<p>К примеру, с Zaken'a, который появится еще до перехода на Вторую стадию - шанс прокачки СА 10 - 12 = 100% для всех членов добивающей группы. </p><br>\n<p><strong>Расширение кол-ва Боссов для прокачки SA, начиная с 10-го уровня:</strong></p><br>\n<p>Общие правила для всех описанных ниже ситуаций:</p><br>\n<p>Шанс индивидуален для каждого члена добивающей группы.</p><br>\n<p>Достаточно иметь взятый квест Enhance Your Weapon и иметь Soul Crystal нужного уровня в инвентаре.</p><br>\n<p><strong>Помимо Эпических Боссов и Тиранозавров, можно также прокачать СА на обычных РБ</strong>, а именно:</p><br>\n<p><strong>С 10 по 12 уровни, 5%</strong><span> </span>персональный шанс для каждого члена добивающей группы:</p><br>\n<ul><br>\n<li>Tanatos</li><br>\n<li>Kandra</li><br>\n<li>Roaring Skylancer</li><br>\n<li>Beast Lord Behemoth</li><br>\n<li>Meanas Anor</li><br>\n<li>Antharas Priest Cloe</li><br>\n<li>Eilhalder von Hellmann</li><br>\n</ul><br>\n<p><strong>С 12 по 13 уровень, 5%</strong><span> </span>персональный шанс для каждого члена добивающей группы:</p><br>\n<ul><br>\n<li>Gordon</li><br>\n<li>Varka's Chief Horus</li><br>\n<li>Ketra's Chief Brakki</li><br>\n<li>Queen Shyeed</li><br>\n<li>Death Lord Ipos</li><br>\n<li>Death Lord Shax</li><br>\n<li>Storm Winged Naga</li><br>\n<li>Ocean Flame Ashakiel</li><br>\n<li>Hestia, Guardian Deity of the Hot Springs</li><br>\n<li>Cherub Galaxia</li><br>\n<li>Anakazel<span> </span>(Hero Rift)</li><br>\n</ul><br>\n<p></p><br>\n<p>Учитывая наше изменение, которое дает возможность вставлять атрибут в вещи B/A-grade с этапа Gracia, и получать дополнительный бонус от заточки экипировки, твои старые вещи остаются в тренде еще долгое время!</p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 256px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 18px;\"></div></div>"
+        },
+        {
+            "id": "obj-48",
+            "title": "Cursed Village",
+            "iconUrl": "/objects/cursed_village.png",
+            "area": "High Five",
+            "x": 1996,
+            "y": 1147,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-50",
+            "title": "Beast Farm",
+            "iconUrl": "/objects/beast_farm.png",
+            "imageUrl": "/images/header_beast_farm.jpg",
+            "area": "High Five",
+            "x": 1940,
+            "y": 898,
+            "z": 60,
+            "description": "Локация для соло игроков, спойлятся материалы для крафта Moirai и Vesper, есть квест на атрибут.<div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 256px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 0px;\"></div></div>"
+        },
+        {
+            "id": "obj-52",
+            "title": "Primeval Isle",
+            "iconUrl": "/objects/primeval_isle.png",
+            "area": "High Five",
+            "x": 1764,
+            "y": 1250,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-53",
+            "title": "Forest of the Dead",
+            "iconUrl": "/objects/forest_of_the_dead.png",
+            "area": "High Five",
+            "x": 1973,
+            "y": 1059,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-55",
+            "title": "Archaic Laboratory",
+            "iconUrl": "/objects/archaic_laboratory.png",
+            "imageUrl": "/images/header_archaic_laboratory.jpg",
+            "area": "High Five",
+            "x": 2136,
+            "y": 687,
+            "z": 60,
+            "description": "<p>Для повышения безопасности ваших персонажей была разработана специальная команда<span>&nbsp;</span><span><strong>.lock</strong></span>, которая запретит передачу вещей до разблокировки персонажа.</p><br>\n<p><span><strong>Что это Вам дает:</strong></span></p><br>\n<p>После блокировки, ваш персонаж<span>&nbsp;</span><u>не сможет</u>:</p><br>\n<p><u>Передавать вещи</u>.</p><br>\n<p><u>Наносить урон по другим персонажам</u><span>&nbsp;</span>(чтобы вещи нельзя было передать с помощью ПК).<br>Подробности:</p><br>\n<p>Если заблокированный персонаж пытается бить \"белого\" персонажа(не флагнутого), то урон не идёт.</p><br>\n<p>Если заблокированный персонаж пытается бить бить флагнутого персонажа, то урон идёт;</p><br>\n<p>Если заблокированный персонаж (в этот момент \"белый\") пытается бить \"персонажа\" персонажа в комбат зоне, то урон идёт;</p><br>\n<p>Если заблокированный персонаж (в этот момент \"белый\") пытается бить флагнутого персонажа в комбат зоне, то урон идёт;</p><br>\n<p>Если заблокированный персонаж (в этот момент флагнутый) пытается бить \"белого\" персонажа в комбат зоне, то урон идёт;</p><br>\n<p>Если заблокированный персонаж (в этот момент флагнутый) пытается бить флагнутого персонажа в комбат зоне, то урон идёт.</p><br>\n<p>ПК-чары включить lock не могут.</p><br>\n<p><span><strong>Как включить?</strong></span></p><br>\n<ul><br>\n<li>Для начала необходимо установить пароль. Введите команды \"<strong>.setlockpw ваш пароль</strong>\" (т.е. если Вы хотите установить пароль 1234, Вы должны ввести в чат .setlockpw 1234). Пароль должен содержать от 4 до 8 символов;</li><br>\n<li>Включите блокировку командой \"<strong>.lock ваш пароль</strong>\" (т.е. если Вы указали в первом пункте пароль 1234, вам необходимо ввести в чат .lock 1234);</li><br>\n<li>Для отключения блокировки необходимо ввести в чат \"<strong>.unlock ваш пароль</strong>\" (т.е. если Вы указали в первом пункте пароль 1234, вам необходимо ввести в чат .unlock 1234).</li><br>\n</ul><br>\n<p><span><strong>ВАЖНО:</strong></span></p><br>\n<ol><br>\n<li><strong>Никому не передавайте пароль безопасности персонажа!</strong><span>&nbsp;</span><span>Если с персонажа будут украдены игровые ценности по причине шаринга пароля, то они не подлежат возврату.</span></li><br>\n<li><strong>Не теряйте и не забывайте данный пароль!</strong><span>&nbsp;</span><span>Храните его в надежном месте! В случае утери пароля его восстановление будет платным (через службу поддержки).</span></li><br>\n</ol><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 256px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 30px;\"></div></div>"
+        },
+        {
+            "id": "obj-60",
+            "title": "Strip Mine",
+            "iconUrl": "/objects/strip_mine.png",
+            "imageUrl": "/images/header_strip_mine.jpg",
+            "area": "High Five",
+            "x": 2224,
+            "y": 366,
+            "z": 60,
+            "description": "<p>Привет! Наливай себе чайку, усаживайся поудобнее и полетели.</p><br>\n<p>Что же такое <b>МастерВорк</b>?</p><br>\n<p><b>MasterWork</b> — это аналогия с рарным предметом из мира Lineage2, продукт, который был объединен из нескольких ценных элементов и стал качественнее и ценнее прочих. Мастерворк — это логика NCSoft и адаптация от команды <b>E-Global &amp; Averia.</b></p><br>\n<p>Хотим отметить, что без вмешательства в основополагающие механики не обошлось. Некоторые скилы, локации и боссы были пересмотрены, так как справедливый баланс и комфортная игра за любой класс - это именно то, что должно стоять во главе стола.<b></b></p><br>\n<p></p><br>\n<p>Ознакомиться с детальными изменениями в умениях твоего любимого класса <a href=\"/forum/topic/197661-masterwork-ii-umeniya-i-mehaniki/\" target=\"_blank\" rel=\"noopener\">можно в этой теме.</a></p><br>\n<p></p><br>\n<p>А еще <span>Мы рады представить вашему вниманию Стартовые Наборы, которые будут доступны на старте Второго сезона </span><strong>MasterWork</strong><span>!</span></p><br>\n<p><strong>Общая информация:</strong></p><br>\n<ul><br>\n<li>Основная логика - \"<b>All in one</b>\" - сочетание как необходимых для старта предметов, так и эксклюзивного ассортимента.</li><br>\n<li>Единственная возможность получить некоторые уникальные предметы, такие как Ездовой Агатион, MW Кольца, Предметы восстановления Vitality и Персональный Плащ, которые можно будет надевать с первого уровня, вне зависимости от уровня Вашего персонажа.</li><br>\n<li>Стартовые Наборы Вы имеете возможность купить, как в<span> </span><a href=\"/cabinet/shop\" rel=\"external nofollow noopener\" target=\"_blank\">Личном Кабинете</a>, так и внутри игры, у NPC MW Store Butler - за<span> </span><i>передаваемые<span> </span></i>Master Coins.</li><br>\n<li>Обмен Купонов на D-grade экипировку находится у NPC MW Store Butler в разделе \"Наборы\".</li><br>\n<li>Обмен Купонов на Головные Уборы находится у NPC Battle Pass manager Rylai в Гиране.</li><br>\n<li>Все предметы экипировки (оружие, броня, бижутерия) - персональные, безвременные. Их нельзя продать в магазин либо кристаллизировать. Их можно точить, шанс заточки у них такой же, как и у обычных предметов-аналогов. При сломе - персонаж получает 0 кристаллов. Сетовые части предметов из наборов не сочетаются с обычными предметами.</li><br>\n</ul><br>\n<p>Ознакомиться с детальной информацией о наборах можно <a href=\"/forum/topic/197769-masterwork-ii-startovye-nabory/\" target=\"_blank\" rel=\"noopener\"><b>по ссылке.</b></a></p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 256px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 33px;\"></div></div>"
+        },
+        {
+            "id": "obj-62",
+            "title": "Ice Merchant Cabin",
+            "iconUrl": "/objects/ice_merchant_cabin.png",
+            "imageUrl": "/images/header_ice_merchant_cabin.jpg",
+            "area": "High Five",
+            "x": 2274,
+            "y": 684,
+            "z": 60,
+            "description": "<p>Во многих квестах, где необходимо фармить большое количество квестовых предметов, мы облегчили обмен предметов на награду, чтобы вам не приходилось тратить время на однообразные рутинные действия.</p><br>\n<p>Например, после прохождения \"<b>An Ice Merchant's Dream</b>\" вы можете быстро сдать все набитые Ice Crystals и получить награду, а не нажимать по 100 раз одну строчку.</p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 256px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 218px;\"></div></div>"
+        },
+        {
+            "id": "obj-63",
+            "title": "Nornils Garden",
+            "iconUrl": "/objects/nornils_garden.png",
+            "imageUrl": "/images/header_nornils_garden.jpg",
+            "area": "High Five",
+            "x": 1152,
+            "y": 1714,
+            "z": 60,
+            "description": "<p>Разделение Геройства <b>для профессии SoulHound</b> (SoulBreaker)</p><br>\n<p>Геймплей за профессию SoulBreaker, в зависимости от выбранного пола персонажа, отличается, не смотря на изменения всего лишь в нескольких скиллах.</p><br>\n<p>В условиях Олимпиады доминируют персонажи женского пола. В MasterWork мы разделили <b>получение Геройства по мужскому и женскому полу</b>, дав возможность каждому гендеру побороться на Олимпиаде.</p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 256px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 174px;\"></div></div>"
+        },
+        {
+            "id": "obj-64",
+            "title": "Nornils Cave",
+            "iconUrl": "/objects/nornils_cave.png",
+            "imageUrl": "/images/header_nornils_cave.jpg",
+            "area": "High Five",
+            "x": 1159,
+            "y": 1632,
+            "z": 60,
+            "description": "<p><b>Инспектор</b> - Твой основной класс.</p><br>\n<p>После того, как раса Kamael стала доступна на третей стадии Gracia, у игроков появилась возможность выкачать на Камаелях три саб класса, последний из которых будет Inspector.</p><br>\n<p>Мы доработали класс Инспектора, внесли некоторые изменения в его механику, и добавили возможность сменить основную профессию персонажа на этот саб класс, пройдя наш уникальный квест. Это дает возможность всем любителям данной профессии, которая была ограничена официальными разработчиками, полноценно на нем сыграть и <b>побороться за статус Геройства!</b></p><br>\n<p>Ознакомиться с умениями класса можно по <a href=\"/wiki/class/135-inspector##skills-40\" target=\"_blank\" rel=\"noopener\">ссылке</a> на нашей вики или почитать интересную информацию на <a href=\"/forum/topic/197661-masterwork-ii-umeniya-i-mehaniki/\">форуме</a></p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 256px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 119px;\"></div></div>"
+        },
+        {
+            "id": "obj-65",
+            "title": "Frozen Waterfalls",
+            "iconUrl": "/objects/frozen_waterfalls.png",
+            "area": "High Five",
+            "x": 1719,
+            "y": 538,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-66",
+            "title": "Plunderous Plains",
+            "iconUrl": "/objects/plunderous_plains.png",
+            "area": "High Five",
+            "x": 2294,
+            "y": 435,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-67",
+            "title": "Crypts of Disgrace",
+            "iconUrl": "/objects/crypts_of_disgrace.png",
+            "area": "High Five",
+            "x": 1938,
+            "y": 665,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-68",
+            "title": "Carons Dungeon",
+            "iconUrl": "/objects/carons_dungeon.png",
+            "area": "High Five",
+            "x": 2045,
+            "y": 717,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-71",
+            "title": "Stronghold I",
+            "iconUrl": "/objects/stronghold_i.png",
+            "area": "High Five",
+            "x": 948,
+            "y": 1775,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-72",
+            "title": "Stronghold III",
+            "iconUrl": "/objects/stronghold_iii.png",
+            "area": "High Five",
+            "x": 1152,
+            "y": 1568,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-74",
+            "title": "Stronghold II",
+            "iconUrl": "/objects/stronghold_ii.png",
+            "area": "High Five",
+            "x": 1071,
+            "y": 1667,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-76",
+            "title": "Elven Ruins",
+            "iconUrl": "/objects/elven_ruins.png",
+            "area": "High Five",
+            "x": 1002,
+            "y": 2696,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-77",
+            "title": "Field of Whispers",
+            "iconUrl": "/objects/field_of_whispers.png",
+            "area": "High Five",
+            "x": 2176,
+            "y": 2600,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-78",
+            "title": "Garden of Eva",
+            "iconUrl": "/objects/garden_of_eva.png",
+            "area": "High Five",
+            "x": 2100,
+            "y": 2762,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-79",
+            "title": "Obelisk",
+            "iconUrl": "/objects/obelisk_of_victory.png",
+            "area": "High Five",
+            "x": 1094,
+            "y": 2699,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-81",
+            "title": "Chromatic Highlands",
+            "iconUrl": "/objects/chromatic_highlands.png",
+            "imageUrl": "/images/header_chromatic_highlands.jpg",
+            "area": "High Five",
+            "x": 2515,
+            "y": 2193,
+            "z": 60,
+            "description": "<p><strong>Chromatic Highlands</strong><span>&nbsp;</span>(северная часть Isle of Prayer) стала значительно более приятная и простая для фарма.</p><br>\n<p><strong>Dark Water Dragon</strong><span>&nbsp;</span>- теперь не агрессивный и не атакует первым. Это значительно упрощает охоту на него;</p><br>\n<p><strong>Опыт</strong>, который можно получить с этой локации более чем конкурентный;</p><br>\n<p>Легко и выгодно добывать<span>&nbsp;</span><a href=\"/template/panel/assets/media/icon/61/icon/etc_wind_stone_i00.png\" title=\"Увеличить изображение\" data-wrappedlink=\"\" data-ipslightbox=\"\" data-ipslightbox-group=\"undefined\"><img alt=\"etc_wind_stone_i00.png\" data-ratio=\"100.00\" data-src=\"/template/panel/assets/media/icon/61/icon/etc_wind_stone_i00.png\" src=\"/template/panel/assets/media/icon/61/icon/etc_wind_stone_i00.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" width=\"32\"></a>&nbsp;<strong>Камни Атрибута</strong>.</p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 256px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 201px;\"></div></div>"
+        },
+        {
+            "id": "obj-82",
+            "title": "Field of Silence",
+            "iconUrl": "/objects/field_of_silence.png",
+            "area": "High Five",
+            "x": 2140,
+            "y": 2397,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-83",
+            "title": "Cedrics Training Hall",
+            "iconUrl": "/objects/cedrics_training_hall.png",
+            "area": "High Five",
+            "x": 1238,
+            "y": 2810,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-84",
+            "title": "Parnassus",
+            "iconUrl": "/objects/parnassus.png",
+            "area": "High Five",
+            "x": 2502,
+            "y": 2346,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-85",
+            "title": "Alligator Island",
+            "iconUrl": "/objects/alligator_island.png",
+            "area": "High Five",
+            "x": 2312,
+            "y": 2382,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-86",
+            "title": "Swamp of Screams",
+            "iconUrl": "/objects/swamp_of_screams.png",
+            "area": "High Five",
+            "x": 2070,
+            "y": 1036,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-87",
+            "title": "Valley of Saints",
+            "iconUrl": "/objects/valley_of_saints.png",
+            "imageUrl": "/images/header_valley_of_saints.jpg",
+            "area": "High Five",
+            "x": 2120,
+            "y": 867,
+            "z": 60,
+            "description": "<p><strong>Дворянство</strong> - один из самых важных этапов развития персонажа, по этому каждый игрок старается получить его как можно скорее.</p><br>\n<p><span><strong>Изменения в системе Дворянства: </strong></span></p><br>\n<p><img alt=\"accessory_hero_cap_i00.png\" data-ratio=\"100.00\" data-src=\"/icon/accessory_hero_cap_i00.png\" src=\"/icon/accessory_hero_cap_i00.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"> Участие в Великой Олимпиаде отвязано от статуса Ноблесса, и зависит исключительно от уровня персонажа;</p><br>\n<p><span class=\"skill-db completed\"><span class=\"item-db__image\"><img alt=\"skill0385.png\" data-ratio=\"100.00\" data-src=\"/wiki/icon/skill0385.png\" src=\"/wiki/icon/skill0385.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -30%;\" width=\"32\"></span></span>Клановые умения не зависят от статуса / ранга персонажа, и работают для всех членов клана;</p><br>\n<p><img alt=\"skill1323.png\" data-ratio=\"100.00\" data-src=\"/icon/skill1323.png\" src=\"/icon/skill1323.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"> Основная цель получения статуса Ноблесса - <strong>Noblesse Blessing</strong>:</p><br>\n<p>Снижено базовое время применения Noblesse Blessing с 4 до 1 секунды;</p><br>\n<p>Скорость применения теперь не зависит от Скорости Маг. Атаки, соответственно<span> </span><u>любые классы с одинаковой эффективностью</u><span> </span>накладывают Noblesse Blessing.</p><br>\n<p><span><strong>Получение Дворянства:</strong></span></p><br>\n<p>Для получения статуса Ноблеса - необходимо пройти стандартную цепочку заданий<span> </span><u>Possessor of a Precious Soul</u>:</p><br>\n<p>На этапах<span> </span><strong>Interlude<span> </span></strong>и<span> </span><strong>Gracia<span> </span></strong>- для завершения <u>Possessor of a Precious Soul -1</u><span> </span>необходимо стандартное количество реагентов: </p><br>\n<p>5 <span class=\"skill-db completed\"><span class=\"item-db__image\"><img alt=\"etc_mithril_ore_i00.png\" data-ratio=\"100.00\" data-src=\"/wiki/icon/etc_mithril_ore_i00.png\" src=\"/wiki/icon/etc_mithril_ore_i00.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"></span>Lunargent и 1 <span class=\"item-db__image\"><img alt=\"etc_luxury_wine_b_i00.png\" data-ratio=\"100.00\" data-src=\"/wiki/icon/etc_luxury_wine_b_i00.png\" src=\"/wiki/icon/etc_luxury_wine_b_i00.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" width=\"32\"></span>Hellfire Oil</span></p><br>\n<p>На этапе<span> </span><strong>High Five<span> </span></strong>- для завершения <u>Possessor of a Precious Soul -1</u> необходим только 1 Lunargent.</p><br>\n<p><span class=\"skill-db completed\"><span class=\"item-db__image\"><img alt=\"etc_broken_crystal_silver_i00.png\" data-ratio=\"100.00\" data-src=\"/wiki/icon/etc_broken_crystal_silver_i00.png\" src=\"/wiki/icon/etc_broken_crystal_silver_i00.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"></span>Moonstone Shard помимо стандартных мест добычи также выбиваются в локации Forbidden Gateway (Seal of Shillien) из монстров <u>Trives</u><span> </span>63 уровня.</span></p><br>\n<p>На этапах<span> </span><strong>Interlude<span> </span></strong>и<span> </span><strong>Gracia</strong>, для завершения <u>Possessor of a Precious Soul -3</u><span> </span>- необходимо убить (находиться в добивающей группе либо лично нанести последний удар) Рейд Боссу:</p><br>\n<p><span> </span><img alt=\"weapon_sprites_staff_i00.png\" data-ratio=\"100.00\" data-src=\"/icon/weapon_sprites_staff_i00.png\" src=\"/icon/weapon_sprites_staff_i00.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"> Flame of Splendor Barakiel:</p><br>\n<p><b>Время респауна Flame of Splendor Barakiel</b> - 8 часов + 0..2 часа рендома (от 8 до 10 часов).</p><br>\n<p>Уровень Barakiel для Interlude - 70. Количество HP босса - увеличено в два раза. С развитием сервера уровень РБ закономерно увеличивается. </p><br>\n<p><b><u>Через неделю после перехода на вторую часть Interlude</u></b><span> </span>- после убийства Flame of Splendor Barakiel будет появляться 2-минутный сундук, поговорив с которым (при наличии нужного квестового пункта про <span class=\"skill-db completed\"><span class=\"item-db__image\"><img alt=\"weapon_sprites_staff_i00.png\" data-ratio=\"100.00\" data-src=\"/wiki/icon/weapon_sprites_staff_i00.png\" src=\"/wiki/icon/weapon_sprites_staff_i00.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"></span>Staff of Goddess: Rain Song</span><span> </span>у Вашего персонажа) вы получите 1 квестовый предмет: <span class=\"skill-db completed\"><span class=\"item-db__image\"><img alt=\"etc_vesper_caster_piece_i00.png\" data-ratio=\"100.00\" data-src=\"/wiki/icon/etc_vesper_caster_piece_i00.png\" src=\"/wiki/icon/etc_vesper_caster_piece_i00.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"></span>Staff of Goddess: Rain Song Fragment. 3 фрагмента - автоматически превращаются в нужный по заданию Staff of Goddess.</span></p><br>\n<p>На этапе<span> </span><strong>High Five</strong>, для завершения <u>Possessor of a Precious Soul -3</u><span> </span>будет доступен альтернативный путь в виде убийства монстров в локации Valley of Saints.</p><br>\n<p><u>Possessor of a Precious Soul - 4</u> (по сути<span> </span><strong>получение Ноблесса</strong>) - доступно<span> </span><strong>с 70 уровня</strong>. </p><br>\n<p><span class=\"skill-db completed\">Альтернатива этому квесту - покупка Дворянства за 50 </span><img alt=\"etc_badge_black_i00.png\" data-ratio=\"100.00\" data-src=\"/icon/etc_badge_black_i00.png\" src=\"/icon/etc_badge_black_i00.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"> Territory Badge! </p><br>\n<p><span class=\"skill-db completed\">Стоимость Ноблеса уменьшена со 100 до 50 Баджей;</span></p><br>\n<p><span class=\"skill-db completed\">Первые Территориальные Войны пройдут для всех персонажей (а не только для кланов-владельцев замков) по завершению осад, на которых будут захвачены все 9 замков. Учитывая то, что Замки появляются по мере развития сервера, ориентировочная дата первых ТВ - 9 Января. О точной дате будет сказано по мере развития сервера, следите за Патчноутами;</span></p><br>\n<p><span class=\"skill-db completed\">Баджи разных замков можно обменивать друг на друга, таким образом Вы сможете накопить эту сумму за 2 ТВ, даже если Вы участвовали на них за две разные территории. </span></p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 256px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 23px;\"></div></div>"
+        },
+        {
+            "id": "obj-88",
+            "title": "Stakato Nest",
+            "iconUrl": "/objects/stakato_nest.png",
+            "area": "High Five",
+            "x": 2135,
+            "y": 1104,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-90",
+            "title": "Cave of Trials",
+            "iconUrl": "/objects/cave_of_trials.png",
+            "area": "High Five",
+            "x": 1742,
+            "y": 725,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-91",
+            "title": "School of Magic",
+            "iconUrl": "/objects/einhovants_school_of_magic.png",
+            "area": "High Five",
+            "x": 1128,
+            "y": 2778,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-155",
+            "title": "Isle of Prayer",
+            "iconUrl": "/objects/isle_of_prayer.png",
+            "imageUrl": "/images/header_isle_of_prayer.jpg",
+            "area": "High Five",
+            "x": 2484,
+            "y": 2441,
+            "z": 60,
+            "description": "<p>Остров, расположенный к северу от Иннадрила, где живет Парме, возлюбленная Фафуриона.</p><br>\n<p>Когда-то остров был маленьким и непривлекательным, но Фафурион превратил его в величественное и красивое место, подходящее для королевы.</p><br>\n<p><b>Локация служит основным источником добычи камней атрибута</b> на ранних этапах Gracia. Владельцы Клан Холлов в городе Хейн, и клан владеющий замком Иннадрил, имеют дополнительные точки телепорта по этой локации, что дает им стратегическое преимущество.</p><br>\n<p>Базовая механика работы по хроникам<span> </span><strong>High Five</strong><u>;</u></p><br>\n<p><u>Расчёт УРОНА в зависимости от разницы Атрибута - по High Five;</u></p><br>\n<p>Атрибут можно вставлять в Оружие и Броню, начиная от B-ранга:</p><br>\n<p><strong>В оружие</strong><span> </span>B-S84 рангов - 150 (камнями) / 300 (кристаллами);</p><br>\n<p><strong>В броню</strong><span> </span>B и А рангов - 30/60; в броню от S ранга и выше - 60/120;</p><br>\n<p><strong>В плащ<span> </span></strong>любого ранга можно вставить 30/60 атрибута.</p><br>\n<p>Количество защитного Атрибута, который можно вставить в броню - изменяется поэтапно:</p><br>\n<p><img alt=\"armor_t90_ul_i00.png\" data-ratio=\"100.00\" data-src=\"/icon/armor_t90_ul_i00.png\" src=\"/icon/armor_t90_ul_i00.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"><span> </span><u>Gracia</u>:<span> </span><span>В цельную броню доступны 2 слота защитного атрибута. Для остальных предметов 1 (300/600 сеты);</span></p><br>\n<p><img alt=\"armor_t93_uh_i00.png\" data-ratio=\"100.00\" data-src=\"/icon/armor_t93_uh_i00.png\" src=\"/icon/armor_t93_uh_i00.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"><span> </span><u>Поздняя Gracia</u>:<span> </span><span>В цельную броню доступны 3 слота защитного атрибута. Для остальных предметов 2 (600/1200 сеты);</span></p><br>\n<p><img alt=\"armor_t96_u_i03.png\" data-ratio=\"100.00\" data-src=\"/icon/armor_t96_u_i03.png\" src=\"/icon/armor_t96_u_i03.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"><span> </span><u>High Five</u>: Во все предметы брони (шлем, верх, низ, тапки, перчатки) - доступны по 3 слота защитного атрибута (900/1800 сеты).</p><br>\n<p>Соответствующие Самоны получают 70% от атакующего Атрибута хозяев (по High Five).</p><br>\n<p>Была изменена система партийного штрафа: теперь <b>на локации можно безнаказанно находиться в пати из 5 человек</b>. Таким образом скорость фарма и конкуренция на локации вырастет.</p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 256px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 41px;\"></div></div>"
+        },
+        {
+            "id": "obj-156",
+            "title": "Monastery of Silence",
+            "iconUrl": "/objects/monastery_of_silence.png",
+            "imageUrl": "/images/header_monastery_of_silence.jpg",
+            "area": "High Five",
+            "x": 2262,
+            "y": 895,
+            "z": 60,
+            "description": "<p><b>Monastery of Silence</b> был построен в последние годы существования империи Элморедена священниками Einhasad, которые также были последователями святого Solina.</p><br>\n<p>Однажды во время молитв священники поняли, что конец мира близок. Они стали молиться еще усерднее. Результатом их действий стало то, что Einhasad заселила верхние этажи здания монастыря новыми ангелами.</p><br>\n<p>Также из-за подготовки к концу света монахи сделали ремонт монастыря. Локация предназначена <b>для игроков 83+ уровня</b>, здесь добываются материалы для крафта Vesper вещей. Особенно популярное место, это <b>спойл кусков для крафта Vesper робы</b> между первым и вторым этажом.</p><br>\n<p>Первый этаж предназначен для экспинга в соло или в небольших группах, мобы имеют уязвимость к мили атакам.</p><br>\n<p>Верхние этажи предназначены для полноценных групп. Там вы можете увидеть новых ангелов: <b>Divine Protectors, Divine Fighters </b>и<b> Divine Sorcerers</b>, каждый из которых имеет свою уязвимость и резист. Если вы хотите убить подобного моба, то можете использовать один из факелов: Furnace of Magic Power, Furnace of Fighting Spirit, Furnace of Protection и Furnace of Balance. В зависимости от зажженного факела мобы обретут определенные резисты и уязвимости. Например включив Furnace of Magic Power появятся Divine Sorcerers, которые будут иметь слабый mdef и cильный резист к мили атакам.</p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 153px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 22px;\"></div></div>"
+        },
+        {
+            "id": "obj-158",
+            "title": "Antharass Lair",
+            "iconUrl": "/objects/antharass_lair.png",
+            "imageUrl": "/images/header_antharass_lair.jpg",
+            "area": "High Five",
+            "x": 2489,
+            "y": 1988,
+            "z": 60,
+            "description": "<p>Сразу за Dragon Valley простираются <b>владения Дракона Земли</b> - Antharas`а.</p><br>\n<p>Его пещера стала прибежищем для разнообразных монстров всех мастей.</p><br>\n<p>Так на входе мы можем встретить социальные группы мобов Maluk, среди которых: <b>Knight, Warrior, Hunter, Warlord </b>и<b> Princess. </b></p><br>\n<p>Продвигаясь глубже по пещере в сторону Портала Antharas`a, мы обязательно наткнемся на интересную локацию: Круг, патрулируемый группами особо опасных мобов. <b>Drake Leader, Mage, Warrior </b>и<b> Scout</b> патрулируют эту территорию и охраняют покой дракона Antharas`a.</p><br>\n<p>Пожалуй <b>Круг - это идеально место для фарма магических групп</b>, но делать это рекомендуется с большой осторожностью. Монстры отличаются свирепостью и зачастую берут игроков количеством.</p><br>\n<p>Одним из самых ценных мест LoA является <b>спот с Кровавыми Кариками</b>, который был добавлен на текущей стадии. На MasterWork мобы были немного изменены, чтобы кроме магов их могли активно фармить остальные классы.</p><br>\n<p><b>Основная прибыль</b> с этой локации: Веспер Нубл Камни для улучшения Vesper брони, материалы для крафта Vesper'а, цельные Vesper и Vorpal предметы.</p><br>\n<p>Иногда по локации пробегает Конорикс (<b>Knoriks</b>), который по сложности фарма напоминает мини рейд босса. С небольшим шансом с него выпадает оружие mid S84. В этой локации доступен ежедневный квест \"Рассказ безымянного духа\" (<b>Don't Know, Don't Care</b>), который берется у NPC Неприкаянный Дух (<b>Separated Soul</b>) в городе и в разных частях DV / LoA.</p><br>\n<p>Вам необходимо убить 3 Рейдовых Босса, и собрать с них квестовый предметы. В качестве награды <b>вы можете</b> случайно <b>получить Mid S84 оружее, Vorpal броню, Vorpal бижутерию</b>, Кристал атрибута, свиток заточки или самоцвет S-grade.</p><br>\n<p>Данный квест можно выполнять не только группой, но и командным каналом, все персонажи в командном канале имеют шанс получить квестовые предметы. После убийства боссов будут появляться специальные НПЦ - мертвые тела боссов, для получения квестовых предметов необходимо будет \"поговорить\" с этим НПЦ.</p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 256px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 40px;\"></div></div>"
+        },
+        {
+            "id": "obj-159",
+            "title": "Forge of the Gods",
+            "iconUrl": "/objects/forge_of_the_gods.png",
+            "imageUrl": "/images/header_forge_of_the_gods.jpg",
+            "area": "High Five",
+            "x": 2656,
+            "y": 703,
+            "z": 60,
+            "description": "<p>Локация \"<b>Кузница Богов</b>\" (Forge of the Gods) теперь полностью открыта, и не нуждается в убийстве RB Ember для повышения стадий локации.</p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 256px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 0px;\"></div></div>"
+        },
+        {
+            "id": "obj-160",
+            "title": "Ketra Orc Outpost",
+            "iconUrl": "/objects/ketra_orc_outpost.png",
+            "imageUrl": "/images/header_ketra_orc_outpost.jpg",
+            "area": "High Five",
+            "x": 2446,
+            "y": 879,
+            "z": 60,
+            "description": "<p>Доступ к квесту \"<b>Battle against Varka Silenos</b>\" был упрощен, он необходим для фарма S-grade кусков и рецептов.</p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 256px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 0px;\"></div></div>"
+        },
+        {
+            "id": "obj-161",
+            "title": "Varka Silenos Outpost",
+            "iconUrl": "/objects/varka_silenos_outpost.png",
+            "imageUrl": "/images/header_varka_silenos_outpost.jpg",
+            "area": "High Five",
+            "x": 2322,
+            "y": 1092,
+            "z": 60,
+            "description": "<p>Доступ к квесту \"<b>Battle against Ketra Orcs</b>\" был упрощен, он необходим для фарма S-grade кусков и рецептов.</p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 256px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 0px;\"></div></div>"
+        },
+        {
+            "id": "obj-162",
+            "title": "Wall of Argos",
+            "iconUrl": "/objects/wall_of_argos.png",
+            "area": "High Five",
+            "x": 2676,
+            "y": 1054,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-163",
+            "title": "The Giants Cave",
+            "iconUrl": "/objects/the_giants_cave.png",
+            "imageUrl": "/images/header_the_giants_cave.jpg",
+            "area": "High Five",
+            "x": 2667,
+            "y": 1684,
+            "z": 60,
+            "description": "<p><b>Изменения в сетах. </b> На нашем сервере были пересмотрены бонусы к <b>сетам Б и А грейда.</b> Не все из них получили обновления, к примеру бонусы у Majestic Robe Set более чем оптимальны. Учитывая наши общие изменения связанные с экипировкой, например возможность вставлять атрибут в вещи B/A-grade, и получать дополнительный бонус от заточки экипировки, твои старые вещи остаются в тренде еще долгое время!</p><br>\n<p>Дополнительные бонусы к текущим:</p><br>\n<p><b>Avadon Heavy</b>: Chance to get Mental debuffs -30% | M. Def +5%</p><br>\n<p><b>Avadon Light</b>: Chance to get Mental debuffs -30% | M Def +8% (вместо 5.25)</p><br>\n<p><b>Avadon Robe</b>: Chance to get Mental debuffs -30%</p><br>\n<p><b>Zubei Heavy</b>: Chance to get Paralysis -30% | Reflect Dmg 5%</p><br>\n<p><b>Zubei Light</b>: Chance to get Paralysis -30% | Attack Speed +4%</p><br>\n<p><b>Zubei Robe</b>: Chance to get Paralysis -30% | M. Attack +15% (вместо 10), Casting Speed +5%</p><br>\n<p><b> Blue Wolf Heavy</b>: Chance to get Stun -30% Blue Wolf Light: Chance to get Stun -30%</p><br>\n<p><b>Blue Wolf Robe</b>: Chance to get Stun -30%</p><br>\n<p><b>Doom Heavy</b>: Chance to get Sleep -30%</p><br>\n<p><b>Doom Light</b>: Chance to get Sleep -30% | Не снимает -2 CON</p><br>\n<p><b>Doom Robe</b>: Chance to get Sleep -30% | Casting Speed +15%</p><br>\n<p><b>Tallum Heavy</b>: Chance to get Mental debuffs -50%</p><br>\n<p><b>Tallum Light</b>: Chance to get Mental debuffs -50% | Casting Speed +15%</p><br>\n<p><b>Tallum Robe</b>: Chance to get Mental debuffs -50% | Moving Speed +7</p><br>\n<p><b>Dark Crystal Heavy</b>: Casting Speed +15%</p><br>\n<p><b>Nightmare Heavy</b>: Magic Skills 5%</p><br>\n<p><b>Nightmare Light</b>: Evade Phys. Skills 5% Nightmare Robe: Casting Speed +10%</p><br>\n<p></p><br>\n<p>Так же были добавлены эссенции для <b>S-grade</b> сетов и переработаны для <b>Dynasty</b> сетов. C изменениями можно ознакомиться в нашей wiki:</p><br>\n<p><a href=\"/wiki/post/1\" target=\"_blank\" rel=\"noopener\">Изменения в S-grade сетах.</a></p><br>\n<p><a href=\"/wiki/post/10\" target=\"_blank\" rel=\"noopener\">Изменения в Dynasty сетах.</a></p><br>\n<p><a href=\"/forum/topic/192057-masterwork-patchnout/?do=findComment&amp;comment=2624436\" target=\"_blank\" rel=\"noopener\">И почитать информацию</a> о квесте в разделе <b>Hellbound Isle</b>, с помощью которого можно добывать эссенции для улучшения <b>S-grade</b> и <b>Dynasty</b> экипировки.</p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 256px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 34px;\"></div></div>"
+        },
+        {
+            "id": "obj-169",
+            "title": "Swampland Waterfall",
+            "iconUrl": "/objects/swampland_waterfall.png",
+            "area": "High Five",
+            "x": 1588,
+            "y": 1665,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-171",
+            "title": "The Shilien Temple",
+            "iconUrl": "/objects/the_shilien_temple.png",
+            "area": "High Five",
+            "x": 1834,
+            "y": 1370,
+            "z": 60,
+            "description": ""
+        },
+        {
+            "id": "obj-172",
+            "title": "Paagrio Temple",
+            "iconUrl": "/objects/paagrio_temple.png",
+            "imageUrl": "/images/header_paagrio_temple.jpg",
+            "area": "High Five",
+            "x": 1295,
+            "y": 717,
+            "z": 60,
+            "description": "<p>Привет! Наливай себе чайку, усаживайся поудобнее и полетели.</p><br>\n<p>Что же такое <b>МастерВорк</b>?</p><br>\n<p><b>MasterWork</b> — это аналогия с рарным предметом из мира Lineage2, продукт, который был объединен из нескольких ценных элементов и стал качественнее и ценнее прочих. Мастерворк — это логика NCSoft и адаптация от команды <b>E-Global &amp; Averia.</b></p><br>\n<p>Хотим отметить, что без вмешательства в основополагающие механики не обошлось. Некоторые скилы, локации и боссы были пересмотрены, так как справедливый баланс и комфортная игра за любой класс - это именно то, что должно стоять во главе стола.<b></b></p><br>\n<p></p><br>\n<p>Ознакомиться с детальными изменениями в умениях твоего любимого класса <a href=\"/forum/topic/197661-masterwork-ii-umeniya-i-mehaniki/\" target=\"_blank\" rel=\"noopener\">можно в этой теме.</a></p><br>\n<p></p><br>\n<p>А еще <span>Мы рады представить вашему вниманию Стартовые Наборы, которые будут доступны на старте Второго сезона </span><strong>MasterWork</strong><span>!</span></p><br>\n<p><strong>Общая информация:</strong></p><br>\n<ul><br>\n<li>Основная логика - \"<b>All in one</b>\" - сочетание как необходимых для старта предметов, так и эксклюзивного ассортимента.</li><br>\n<li>Единственная возможность получить некоторые уникальные предметы, такие как Ездовой Агатион, MW Кольца, Предметы восстановления Vitality и Персональный Плащ, которые можно будет надевать с первого уровня, вне зависимости от уровня Вашего персонажа.</li><br>\n<li>Стартовые Наборы Вы имеете возможность купить, как в<span> </span><a href=\"/cabinet/shop\" rel=\"external nofollow noopener\" target=\"_blank\">Личном Кабинете</a>, так и внутри игры, у NPC MW Store Butler - за<span> </span><i>передаваемые<span> </span></i>Master Coins.</li><br>\n<li>Обмен Купонов на D-grade экипировку находится у NPC MW Store Butler в разделе \"Наборы\".</li><br>\n<li>Обмен Купонов на Головные Уборы находится у NPC Battle Pass manager Rylai в Гиране.</li><br>\n<li>Все предметы экипировки (оружие, броня, бижутерия) - персональные, безвременные. Их нельзя продать в магазин либо кристаллизировать. Их можно точить, шанс заточки у них такой же, как и у обычных предметов-аналогов. При сломе - персонаж получает 0 кристаллов. Сетовые части предметов из наборов не сочетаются с обычными предметами.</li><br>\n</ul><br>\n<p>Ознакомиться с детальной информацией о наборах можно <a href=\"/forum/topic/197769-masterwork-ii-startovye-nabory/\" target=\"_blank\" rel=\"noopener\"><b>по ссылке.</b></a></p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 256px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 33px;\"></div></div>"
+        },
+        {
+            "id": "obj-174",
+            "title": "Dragon Valley",
+            "iconUrl": "/objects/dragon_valley.png",
+            "imageUrl": "/images/header_dragon_valley.jpg",
+            "area": "High Five",
+            "x": 2213,
+            "y": 2025,
+            "z": 60,
+            "description": "<p>Начиная с этапа <b>High Five</b>, эта локация переделана под фарм S80 Moirai брони и Icarus оружия, атрибута и кодексов. В локации падают Кости для вызова рейда под квест на Vesper оружие. <b>Vesper вещи можно носить с 82го</b> уровня. Обычно эта локация фармится магами 78+ уровня, желательно иметь нублесс в пати. Начало локации <b>Dragon Valley</b> предназначена для соло игроков, и мобы очень легко фармятся.</p><br>\n<p>Основной заработок для соло игроков, это фарм с них камней атрибута Тьмы / Ветра, и книг заточки скиллов. Пройдя по локации дальше, мы натыкаемся уже на мобов пожирнее и с более вкусным дропом:</p><br>\n<p>В Центре стоят Гем Драгоны, на севере обитают Дракосы, на юге Скорпионы, недалеко от входа в ЛоА споты с личинками.</p><br>\n<p>В этой локации с различных мобов падает <b>Обломок Кости Огромного Дракона</b> (<b>Large Dragon Bone</b>), который необходим для квеста <b>Именем легенды</b> (<b>Legendary Tales</b>). Этот квест берется с 80го уровня у NPC Гильмор (Gilmore), который расположен у входа в DV. По квесту вам необходимо зафармить с группой 7 различных боссов, которые рандомно вызываются из Драконических Вихрей в Dragon Valley. В качестве награды вы можете <b>выбрать любое Vesper оружее</b>.</p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 256px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 72px;\"></div></div>"
+        },
+        {
+            "id": "obj-175",
+            "title": "House of Reorin",
+            "iconUrl": "/objects/house_of_reorin.png",
+            "imageUrl": "/images/header_house_of_reorin.jpg",
+            "area": "High Five",
+            "x": 2229,
+            "y": 1742,
+            "z": 60,
+            "description": "<p> <span><strong>Квест на Подкласс (Саб) для сервера MasterWork, был упрощен:</strong></span></p><br>\n<ul><br>\n<li>Для получения возможности брать первый саб - достаточно пройти изменённый квест<span> </span> <strong>Fate's Whisper (Шепот Судьбы)</strong>;</li><br>\n<li>Для взятия квеста на Саб Класс необходим<span> </span><strong>52 уровень</strong>;</li><br>\n<li>Квест берётся там же, где и всегда: у<span> </span><strong>Maestro Reorin</strong><span> </span>(Реорин), который стоит к северо-востоку от<span> </span><strong>Town of Oren</strong>;</li><br>\n<li>Вместо Cabrio - необходимо будет победить 55-го рейда<span> </span><strong>Ghost Knight Kabed,</strong><span> </span>в локации<span> </span><strong>The Cemetery</strong>;</li><br>\n<li>Вместо RB на этажах в ToI - по аналогии, трёх РБ под ToI, севернее от<span> </span><strong>The Enchanted Valley: Barion, Karte, Verfa</strong>, уровни которых были увеличены до: 52, 55 и 58-го, соответственно, а HP которых - было увеличено в полтора раза;</li><br>\n<li>Справившись с этим, и отнеся все посохи Реорину - необходимо будет истреблять монстров<span> </span><strong>Vanor Silenos</strong><span> </span>в локации<span> </span><strong>Plains of Glory</strong>, к северу от Aden'a, пока Ваш персонаж не получит<span> </span><strong>100 Silenos Shards.</strong></li><br>\n</ul><br>\n<p>Необходимые предметы идут каждому члену группы, добивающей монстров. Таким образом собираться в группы для истребления Silenos'ов - эффективно.</p><br>\n<ul><br>\n<li>Далее - либо воспользоваться стандартным обменником:<br>\n<ul><br>\n<li><a href=\"https://true.gallery/image.php?di=0AJC.jpg\" title=\"Увеличить изображение\" data-wrappedlink=\"\" data-ipslightbox=\"\" data-ipslightbox-group=\"undefined\"><img alt=\"image.php?di=0AJC.jpg\" data-ratio=\"100.00\" data-src=\"https://true.gallery/image.php?di=0AJC.jpg\" src=\"https://true.gallery/image.php?di=0AJC.jpg\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" width=\"32\" height=\"32\"></a> <strong>Top-B gr.</strong><span> </span>оружие (без B gr. кристаллов), для получения<span> </span><a href=\"https://true.gallery/image.php?di=IAK9.jpg\" title=\"Увеличить изображение\" data-wrappedlink=\"\" data-ipslightbox=\"\" data-ipslightbox-group=\"undefined\"><img alt=\"image.php?di=IAK9.jpg\" data-ratio=\"100.00\" data-src=\"https://true.gallery/image.php?di=IAK9.jpg\" src=\"https://true.gallery/image.php?di=IAK9.jpg\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" width=\"32\" height=\"32\"></a> <strong>Low-A. gr</strong><span> </span>оружия.</li><br>\n</ul><br>\n</li><br>\n<li>Либо же альтернативным вариантом:<br>\n<ul><br>\n<li><a href=\"https://true.gallery/image.php?di=NFP8.jpg\" title=\"Увеличить изображение\" data-wrappedlink=\"\" data-ipslightbox=\"\" data-ipslightbox-group=\"undefined\"><img alt=\"image.php?di=NFP8.jpg\" data-ratio=\"100.00\" data-src=\"https://true.gallery/image.php?di=NFP8.jpg\" src=\"https://true.gallery/image.php?di=NFP8.jpg\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" width=\"32\" height=\"32\"></a> <strong>984 B-gr. Gemstones</strong>, для закрытия квеста, без обмена оружия (в данном случае Low-A. gr не будет).</li><br>\n</ul><br>\n</li><br>\n</ul><br>\n<p><strong>Общая информация по Подклассам: </strong></p><br>\n<ul><br>\n<li>Свой первый подкласс персонаж может взять, как только он закончит упрощенный вариант квеста, последующие - при достижении предыдущим сабом 60 уровня.</li><br>\n<li>На развития подклассов действуют те же правила текущего этапа сервера (рейты опыта), что и на развитие основного класса.</li><br>\n<li>Со вводом Kamael, они также получают Подкласс путём прохождения этого квеста. </li><br>\n<li><u>Бонус</u>: Смена Саба доступна в меню персонажа, и активируется, когда персонаж находится в мирной зоне. Менять саб можно загруженным под завязку персонажем. Больше не нужно бегать к НПЦ и выбрасывать половину инвентаря на пол. </li><br>\n<li>С развитием сервера:<br>\n<ul><br>\n<li>Уровни (а также параметры и награды за убийства) Рейдовых Боссов, необходимых для данного квеста - планомерно увеличиваются.</li><br>\n<li>Необходимый 52-й уровень для прохождения Подкласса остаётся без изменений. </li><br>\n</ul><br>\n</li><br>\n</ul><br>\n<p><strong>В разработке:</strong></p><br>\n<ul><br>\n<li>Любой подкласс можно будет сделать основным классом.</li><br>\n<li>Будет убрано ограничение, на взятие подклассов в зависимости от расы персонажа / основного класса персонажа. Исключение: Камаэль</li><br>\n</ul><br>\n<p>Более детально ознакомиться с изменениями и умениями од саб-класса можно <a href=\"/forum/topic/197767-masterwork-ii-sabklass-i-nobles-dvoryanin/\" target=\"_blank\" rel=\"noopener\"><b>в специальной теме на форуме</b></a></p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 153px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 7px;\"></div></div>"
+        }
+    ]
+}

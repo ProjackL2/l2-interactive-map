@@ -1,0 +1,102 @@
+{
+    "pins": [
+        {
+            "id": "obj-21",
+            "title": "Floran Village",
+            "iconUrl": "/objects/floran_village.png",
+            "imageUrl": "/images/header_floran_village.jpg",
+            "area": "High Five",
+            "x": 1715,
+            "y": 2280,
+            "z": 100,
+            "description": "<p><b>Штрафы на опыт и дроп. </b></p><br>\n<p>На MasterWork присутствуют штрафы к получаемому опыты, дропу и спойлу с мобов, которые не подходят вам по уровню. Это защищает от перефарма на локациях, которые концептуально не подходят уровню развития вашего персонажа.</p><br>\n<p><b>1.</b> Штраф к дропу и спойлу одинаков на всех уровнях: в диапазоне +-5 уровней включительно, мы получаем 0% штрафа. После, на каждый уровень разницы, штраф увеличивается на 10%, и к отметке +-15 уровней и более равен 95%.</p><br>\n<p><b>2.</b> Штраф к получаемому опыту на 1-77 уровнях: в диапазоне +-5 уровней включительно, мы получаем 0% штрафа. После мы имеем ощутимый штраф на первых 6-7 уровнях разницы (17 и 31% штрафа), и когда разница превышает в 15+ уровней (95%). В отрезке +-8-14 уровней идет плавное повышение штрафа.</p><br>\n<p><b>3.</b> Штраф к получаемому опыту на 78+ уровнях: в диапазоне +-3 уровней включительно, мы получаем 0% штрафа. После идет плавное повышение штрафа от 17% на +-4 уровнях, до 95% на +15 и более разницы в уровнях.</p><br>\n<p><b>4.</b> Штраф на рейдовых боссов: получение опыта без штрафа +-5 уровней относительно уровня РБ. Получение дропа без штрафа +-7 уровней относительно уровня РБ.</p><br>\n<p>Детальную информацию о штрафах можно узнать в этой <a href=\"/forum/topic/197870-masterwork-ii-reyty-i-etapy/\" target=\"_blank\" rel=\"noopener\"><b>теме</b></a>.</p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 256px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 63px;\"></div></div>"
+        },
+        {
+            "id": "obj-69",
+            "title": "Gludin Village",
+            "iconUrl": "/objects/gludin_village.png",
+            "imageUrl": "/images/header_gludin_village.jpg",
+            "area": "High Five",
+            "x": 1160,
+            "y": 2165,
+            "z": 100,
+            "description": "<p>На нашем сервере вам доступны ежедневные задания и различные ачивки за выполнение которых вас ждут награды и бонусы персонажа.</p><br>\n<p><b>Ежедневные квесты берутся у NPC \"Adventurers' Guide\".</b></p><br>\n<p>Детальное описание каждого из квестов можно найти<a href=\"/forum/topic/197775-masterwork-ii-klubnyy-menedzher-adventurers-guide/\"><b> в этой теме </b></a>в разделе</p><br>\n<p> <b><img alt=\"etc_letter_blue_i00.png\" data-ratio=\"100.00\" data-src=\"/icon/etc_letter_blue_i00.png\" src=\"/icon/etc_letter_blue_i00.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"> <span><strong>Ежедневные задания</strong></span></b></p><br>\n<p>Каждый квест можно взять 1 раз в день, откат в 6:30 утра по серверному времени (gmt +2). Награды в некоторых квестах имеют ограничение по времени и являются персональными.</p><br>\n<p><b> Доступные квесты: </b></p><br>\n<p>1. <b>Challenge the Rim Kamaloka</b> — необходимо пройти соло камалоку. Награда Ivory Coins и очки Vitality.</p><br>\n<p>2. <b>Challenge the Hall of the Abyss</b> — необходимо пройти партийную камалоку. Награда Ivory Coins и очки Vitality.</p><br>\n<p>3. <b>Challenge the Labyrinth of Abyss</b> — необходимо пройти партийный лабиринт. Награда Ivory Coins и х1 Nobless Scroll.</p><br>\n<p>4. <b>Successful raid</b> — добей любого рейдового босса, квест засчитывается каждому участнику группы. Награда Ivory Coins и очки Vitality.</p><br>\n<p>5. <b>Fighting Evil</b> — набей определенное количество мобов в локациях, перечень которых зависит от уровня персонажа. Награда Ivory Coins в зависимости от уровня квеста.</p><br>\n<p>6. <b>Fighting Zaken</b> — Цель - убить Zaken (instance).</p><br>\n<p><b>Ачивки разбиты по категориям: </b></p><br>\n<p><b>1.</b> Достижение определенного уровня персонажа.</p><br>\n<p><b>2.</b> Прокачка Sub class-а.</p><br>\n<p><b>3.</b> Набитие PvP и PK.</p><br>\n<p><b>4.</b> Время проведенное в игре (многоразовое выполнение).</p><br>\n<p><b>5.</b> Участие в Олимпиаде (многоразовое выполнение).</p><br>\n<p><b>Ivory Coins</b> — валюта выдаваемая за выполнение ежедневных квестов, некоторых ачивок и участие в ивентах. Игроки могут обменять её на полезные товары у NPC \"<a href=\"/forum/topic/197775-masterwork-ii-klubnyy-menedzher-adventurers-guide/\"><b>Adventurers' Guide</b></a>\", ассортимент которого постоянно обновляется!\"</p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 256px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 37px;\"></div></div>"
+        },
+        {
+            "id": "obj-70",
+            "title": "Hunters Village",
+            "iconUrl": "/objects/hunters_village.png",
+            "area": "High Five",
+            "x": 2309,
+            "y": 1786,
+            "z": 100,
+            "description": ""
+        },
+        {
+            "id": "obj-118",
+            "title": "Dwarven Village",
+            "iconUrl": "/objects/dwarven_village.png",
+            "imageUrl": "/images/header_dwarven_village.jpg",
+            "area": "High Five",
+            "x": 2294,
+            "y": 288,
+            "z": 100,
+            "description": "<p><b>Деревня гномов</b> на далеком севере, где живут неунывающие мастера и добытчики.</p><br>\n<p>Главная их стихия - прибыль и все что с ней связано. Однако на MasterWork они способны выдавать хороший урон, и быть полноценными помощниками как в фарме, так и во время войны на открытом поле или в борьбе за Олимпиаду.</p><br>\n<p>В условиях MasterWork эта <b>раса обрела актуальность</b> за счет стадийности сервера, где игрокам необходимо больше вкладываться в крафт и улучшение своей экипировки:</p><br>\n<p><b>1</b>. <b>Услуги крафта нужны чаще</b>, ведь необходимо обновлять экипировку не только под конец финального развития твоего персонажа, а на протяжении всей игры - то есть минимум 6-8 раз.</p><br>\n<p><b>2</b>. <b>Имеется шанс получить редкую экипировку</b> дающую дополнительные статы.</p><br>\n<p><b>3</b>. <b>Заточка вещей дает новые дополнительные бонусы</b>, а значит твой спойлер может хорошо подняться на добыче Enchant Scroll.</p><br>\n<p><b>Бесплатная экипировка для комфортного развития новичков: </b></p><br>\n<p><b>1</b>. Каждому персонажу предоставляем NG сет с характеристиками mid D-grade брони, в которой комфортно развиваться до получения C-grade. Сет выдает частями NPC Newbie Guide в процессе развития персонажа с 8 по 15 уровень.</p><br>\n<p><b>2</b>. На 5м уровне получаешь купон для выбора Mid NG оружия, на 17м - универсальное Best NG оружие для магов и воинов. На 20м уровне - купон на D-grade оружие.</p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 256px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 55px;\"></div></div>"
+        },
+        {
+            "id": "obj-119",
+            "title": "Dark Elven Village",
+            "iconUrl": "/objects/dark_elven_village.png",
+            "imageUrl": "/images/header_dark_elven_village.jpg",
+            "area": "High Five",
+            "x": 1717,
+            "y": 1437,
+            "z": 100,
+            "description": "<p>Деревня темных эльфов, колыбель падшей расы, где они были обречены несколько столетий блуждать в ожидании снятия проклятия.</p><br>\n<p>Место, куда тысячу лет назад пришел Волшебник Даспарион что бы обучить Эльфов черной магии.</p><br>\n<p><b>Бесплатная экипировка для комфортного развития новичков: </b></p><br>\n<p><b>1.</b> Каждому персонажу предоставляем NG сет с характеристиками mid D-grade брони, в которой комфортно развиваться до получения C-grade. Сет выдает частями NPC Newbie Guide в процессе развития персонажа с 8 по 15 уровень.</p><br>\n<p><b>2.</b> На 5м уровне получаешь купон для выбора Mid NG оружия, на 17м - универсальное Best NG оружие для магов и воинов. На 20м уровне - купон на D-grade оружие.</p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 153px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 39px;\"></div></div>"
+        },
+        {
+            "id": "obj-120",
+            "title": "Orc Village",
+            "iconUrl": "/objects/orc_village.png",
+            "imageUrl": "/images/header_orc_village.jpg",
+            "area": "High Five",
+            "x": 1362,
+            "y": 686,
+            "z": 100,
+            "description": "<p>После войны между орками и альянсом людей, эльфов и гномов, орки вынуждены были отступить на плато Immortal, в северо-западной части Эльмора.</p><br>\n<p>Там они основали деревню крепость с храмом Pa'agrio в вулканической пещере, а горы послужили прекрасной защитой от западных океанских ветров.</p><br>\n<p><b>Бесплатная экипировка для комфортного развития новичков: </b></p><br>\n<p><b>1.</b> Каждому персонажу предоставляем NG сет с характеристиками mid D-grade брони, в которой комфортно развиваться до получения C-grade. Сет выдает частями NPC Newbie Guide в процессе развития персонажа с 8 по 15 уровень.</p><br>\n<p><b>2.</b> На 5м уровне получаешь купон для выбора Mid NG оружия, на 17м - универсальное Best NG оружие для магов и воинов. На 20м уровне - купон на D-grade оружие.</p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 153px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 37px;\"></div></div>"
+        },
+        {
+            "id": "obj-121",
+            "title": "Elven Village",
+            "iconUrl": "/objects/elven_village.png",
+            "imageUrl": "/images/header_elven_village.jpg",
+            "area": "High Five",
+            "x": 1892,
+            "y": 1627,
+            "z": 100,
+            "description": "<p><b>Деревня эльфов</b> и место, где светлые эльфы делают свои первые шаги в миру Эльмораден.</p><br>\n<p>Согласно легенде, все Эльфы родились от листьев Дерева Матери, которое посадил первый Эльф, созданный Эйнхазад. Оно растет посреди площади деревни.</p><br>\n<p><b>Бесплатная экипировка для комфортного развития новичков: </b></p><br>\n<p><b>1.</b> Каждому персонажу предоставляем NG сет с характеристиками mid D-grade брони, в которой комфортно развиваться до получения C-grade. Сет выдает частями NPC Newbie Guide в процессе развития персонажа с 8 по 15 уровень.</p><br>\n<p><b>2.</b> На 5м уровне получаешь купон для выбора Mid NG оружия, на 17м - универсальное Best NG оружие для магов и воинов. На 20м уровне - купон на D-grade оружие.</p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 153px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 39px;\"></div></div>"
+        },
+        {
+            "id": "obj-123",
+            "title": "Kamael Village",
+            "iconUrl": "/objects/kamael_village.png",
+            "imageUrl": "/images/header_kamael_village.jpg",
+            "area": "High Five",
+            "x": 965,
+            "y": 1612,
+            "z": 100,
+            "description": "<p><b>Деревня Камаэль</b> находится на острове, юго-западе от Деревни Тёмных Эльфов и является домом для расы Камаэль.</p><br>\n<p><b>Бесплатная экипировка для комфортного развития новичков: </b></p><br>\n<p><b>1.</b> Каждому персонажу предоставляем NG сет с характеристиками mid D-grade брони, в которой комфортно развиваться до получения C-grade. Сет выдает частями NPC Newbie Guide в процессе развития персонажа с 8 по 15 уровень.</p><br>\n<p><b>2.</b> На 5м уровне получаешь купон для выбора Mid NG оружия, на 17м - универсальное Best NG оружие для магов и воинов. На 20м уровне - купон на D-grade оружие.</p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 153px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 49px;\"></div></div>"
+        },
+        {
+            "id": "obj-127",
+            "title": "Talking Island Village",
+            "iconUrl": "/objects/talking_island_village.png",
+            "imageUrl": "/images/header_talking_island_village.jpg",
+            "area": "High Five",
+            "x": 1164,
+            "y": 2738,
+            "z": 100,
+            "description": "<p><b>Деревня людей</b>, которая находится на отдаленном островке, на юго-западе от материка.</p><br>\n<p>Это место, где Люди впервые научились управлять магией под руководством Эльфов.</p><br>\n<p><b> Бесплатная экипировка для комфортного развития новичков: </b></p><br>\n<p>1. Каждому персонажу предоставляем NG сет с характеристиками mid D-grade брони, в которой комфортно развиваться до получения C-grade. Сет выдает частями NPC Newbie Guide в процессе развития персонажа с 8 по 15 уровень.</p><br>\n<p>2. На 5м уровне получаешь купон для выбора Mid NG оружия, на 17м - универсальное Best NG оружие для магов и воинов. На 20м уровне - купон на D-grade оружие.</p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 153px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 40px;\"></div></div>"
+        }
+    ]
+}

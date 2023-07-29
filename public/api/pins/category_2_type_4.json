@@ -1,0 +1,68 @@
+{
+    "pins": [
+        {
+            "id": "obj-110",
+            "title": "Gludio Airship Field",
+            "iconUrl": "/objects/gludio_airship_field.png",
+            "area": "High Five",
+            "x": 740,
+            "y": 2773,
+            "z": 3,
+            "description": ""
+        },
+        {
+            "id": "obj-151",
+            "title": "Seed of Annihilation",
+            "iconUrl": "/objects/seed_of_annihilation.png",
+            "imageUrl": "/images/header_seed_of_annihilation.jpg",
+            "area": "High Five",
+            "x": 485,
+            "y": 2200,
+            "z": 3,
+            "description": "<p><span><strong>Seed of Annihilation</strong></span></p><br>\n<p>На сервер была введена новая локация<span> </span><strong>Seed of Annihilation - SoA</strong>. Для актуализации и так одной из наиболее популярной локаций мы пересмотрели buff-эффекты, которые помогут буквально всем классам найти свой спот;</p><br>\n<p>Попасть на локацию можно будет через того-же NPC, что и в SoD. Находится он в Ancient Arcan City.</p><br>\n<p>Дроп на локации был также незначительно улучшен;</p><br>\n<p>Баффы на локации:</p><br>\n<p><img alt=\"Skill6439 0.jpg\" data-ratio=\"100.00\" data-src=\"https://linedia.ru/w/images/f/f1/Skill6439_0.jpg\" src=\"https://linedia.ru/w/images/f/f1/Skill6439_0.jpg\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"> <strong>Efficacy of Wisdom</strong><span> </span>(маг) - не был затронут (без изменений);</p><br>\n<p><img alt=\"Skill6440 0.jpg\" data-ratio=\"100.00\" data-src=\"https://linedia.ru/w/images/e/ec/Skill6440_0.jpg\" src=\"https://linedia.ru/w/images/e/ec/Skill6440_0.jpg\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"> <strong>Efficacy of Strength</strong><span> </span>(физ. ближний бой) - значительно переработан. Дает фактическую возможность фармить локацию;</p><br>\n<p><img alt=\"Skill6441 0.jpg\" data-ratio=\"100.00\" data-src=\"https://linedia.ru/w/images/f/fe/Skill6441_0.jpg\" src=\"https://linedia.ru/w/images/f/fe/Skill6441_0.jpg\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"><strong> Efficacy of Agility</strong><span> </span>(физ. дальний бой) - значительно переработан. Дает фактическую возможность фармить локацию.</p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 256px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 87px;\"></div></div>"
+        },
+        {
+            "id": "obj-152",
+            "title": "Aerial Cleft",
+            "iconUrl": "/objects/aerial_cleft.png",
+            "area": "High Five",
+            "x": 266,
+            "y": 2658,
+            "z": 3,
+            "description": ""
+        },
+        {
+            "id": "obj-153",
+            "title": "Seed of Infinity",
+            "iconUrl": "/objects/seed_of_infinity.png",
+            "imageUrl": "/images/header_seed_of_infinity.jpg",
+            "area": "High Five",
+            "x": 276,
+            "y": 2380,
+            "z": 3,
+            "description": "<p>На третей стадии, среди всего контента на континенте Gracia, доступен только инстанс Близнецов в Семени Бессмертия (Seed of Infinity)</p><br>\n<p><b>С босса выпадают:</b></p><br>\n<p><img alt=\"skill1532.png\" data-ratio=\"100.00\" data-src=\"/icon/skill1532.png\" src=\"/icon/skill1532.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"> <img alt=\"skill0917.png\" data-ratio=\"100.00\" data-src=\"/icon/skill0917.png\" src=\"/icon/skill0917.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"> <strong>Книги</strong>, для изучения умений<span> </span><u>на 79 уровнях</u>!</p><br>\n<p><img alt=\"weapon_basalt_battlehammer_i00.png\" data-ratio=\"100.00\" data-src=\"/icon/weapon_basalt_battlehammer_i00.png\" src=\"/icon/weapon_basalt_battlehammer_i00.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"> Оружие S ранга;</p><br>\n<p><img alt=\"armor_t90_g_i00.png\" data-ratio=\"100.00\" data-src=\"/icon/armor_t90_g_i00.png\" src=\"/icon/armor_t90_g_i00.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"> Броня S ранга;</p><br>\n<p><img alt=\"accessory_tateossian_necklace_i00.png\" data-ratio=\"100.00\" data-src=\"/icon/accessory_tateossian_necklace_i00.png\" src=\"/icon/accessory_tateossian_necklace_i00.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"> Бижутерия S ранга;</p><br>\n<p><img alt=\"etc_wind_stone_i00.png\" data-ratio=\"100.00\" data-src=\"/icon/etc_wind_stone_i00.png\" src=\"/icon/etc_wind_stone_i00.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"> <img alt=\"familybox_ench.png\" data-ratio=\"100.00\" data-src=\"/icon/familybox_ench.png\" src=\"/icon/familybox_ench.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"> <img alt=\"chest_of_dark_soul.png\" data-ratio=\"100.00\" data-src=\"/icon/chest_of_dark_soul.png\" src=\"/icon/chest_of_dark_soul.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\">  Камни АТТ, Заточки, ЛСы;</p><br>\n<p>Было <b>отключено открытие SoI</b> для фарма кристаллов атрибута. Однако после открытия 3х первых SoD'ов - становится возможным обменивать обычные камни атрибута с доплатой на кристаллы атрибута.</p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 256px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 107px;\"></div></div>"
+        },
+        {
+            "id": "obj-154",
+            "title": "Seed of Destruction",
+            "iconUrl": "/objects/seed_of_destruction.png",
+            "imageUrl": "/images/header_seed_of_destruction.jpg",
+            "area": "High Five",
+            "x": 5,
+            "y": 2674,
+            "z": 3,
+            "description": "<p>На четвертой стадии становится <b>доступен фарм Тиады</b> (Tiat), с которой падает Icarus и Vesper оружие. Vesper вещи можно носить с 82го уровня.</p><br>\n<p>Для входа к Тиад необходимо 18-45 персонажей 75+ уровня. Открытие SoD для сбора кристаллов:</p><br>\n<p><b>1.</b> После 10ти фармов Тиат в течении недели - открывается Seed of Destruction, где можно собирать кристаллы для вставки 300 атрибута.</p><br>\n<p><b>2.</b> Время активной стадии фарма 150+ АТТ в SoD уменьшено до 2 часов.</p><br>\n<p><b>3.</b> Количество получаемых осколков из Фонтанов в SoD - увеличено в два раза, фонтаны появляются в полтора раза чаще.</p><br>\n<p><b>4.</b> После открытия 3х первых SoD'ов - становится возможным обменивать обычные камни атрибута с доплатой на кристаллы атрибута.</p><br>\n<p><b>С босса выпадают:</b></p><br>\n<p><img alt=\"weapon_dynasty_blade_i00.png\" data-ratio=\"100.00\" data-src=\"/icon/weapon_dynasty_blade_i00.png\" src=\"/icon/weapon_dynasty_blade_i00.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\">&nbsp;Dynasty Оружие;</p><br>\n<p><img alt=\"weapon_icarus_sowsword_i00.png\" data-ratio=\"100.00\" data-src=\"/icon/weapon_icarus_sowsword_i00.png\" src=\"/icon/weapon_icarus_sowsword_i00.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\">&nbsp;Icarus Оружие;</p><br>\n<p><img alt=\"weapon_vesper_cutter_i00.png\" data-ratio=\"100.00\" data-src=\"/icon/weapon_vesper_cutter_i00.png\" src=\"/icon/weapon_vesper_cutter_i00.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\">&nbsp;Vesper Оружие;</p><br>\n<p><img alt=\"etc_wind_stone_i00.png\" data-ratio=\"100.00\" data-src=\"/icon/etc_wind_stone_i00.png\" src=\"/icon/etc_wind_stone_i00.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\">&nbsp;<img alt=\"familybox_ench.png\" data-ratio=\"100.00\" data-src=\"/icon/familybox_ench.png\" src=\"/icon/familybox_ench.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\">&nbsp;<img alt=\"chest_of_dark_soul.png\" data-ratio=\"100.00\" data-src=\"/icon/chest_of_dark_soul.png\" src=\"/icon/chest_of_dark_soul.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\">&nbsp; Камни АТТ, Заточки, ЛСы;</p><br>\n<p><img alt=\"etc_soul_stone_i00.png\" data-ratio=\"100.00\" data-src=\"/icon/etc_soul_stone_i00.png\" src=\"/icon/etc_soul_stone_i00.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\"> Прокачка СА 13 - 16;</p><br>\n<p><img alt=\"br_spell_books_sword_i00.png\" data-ratio=\"100.00\" data-src=\"/icon/br_spell_books_sword_i00.png\" src=\"/icon/br_spell_books_sword_i00.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\">&nbsp;Книги для изучения M/F/A Will;</p><br>\n<p><img alt=\"Protection_of_Elemental.png\" data-ratio=\"100.00\" data-src=\"/icon/Protection_of_Elemental.png\" src=\"/icon/Protection_of_Elemental.png\" class=\"ipsImage_thumbnailed\" data-loaded=\"true\" style=\"vertical-align: -27%;\" width=\"32\">&nbsp;Protection of Alignment и&nbsp;Elemental<span>&nbsp;</span><span>(изучение с 79 ур.).</span></p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 429px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 174px;\"></div></div>"
+        },
+        {
+            "id": "obj-166",
+            "title": "Keucereus Alliance Base",
+            "iconUrl": "/objects/keucereus_alliance_base.png",
+            "imageUrl": "/images/header_keucereus_alliance_base.jpg",
+            "area": "High Five",
+            "x": 470,
+            "y": 2681,
+            "z": 3,
+            "description": "<p>С шестой стадии становится полноценно доступен континент Gracia по версии High Five хроник. Добавлена локация Семя Уничтожения (Seed of Annihilation), с изменениями под упрощенный фарм милишниками и арчерами.&nbsp;</p><br>\n<p><b>Контент включает в себя: </b></p><br>\n<p><b>1.</b> Возможность захода на Тиат в Семени Разрушения (Seed of Destruction)</p><br>\n<p><b>2.</b> Возможность посещать Близнецов в Семени Бессмертия (Seed of Infinity)</p><br>\n<p><b>3.</b> Возможность собирать кристаллы атрибута в SoD после убийства 10 Тиат</p><br>\n<p><b>4.</b> Возможность фармить СоА</p><br>\n<p><b> Общие изменения Gracia: </b></p><br>\n<p><b>1.</b> Попасть на континент Грации могут только персонажи, достигшие 75 уровня.</p><br>\n<p><b>2.</b> Всем Airship Controller добавлен Телепорт в Гиран за 100.000 Adena.</p><br>\n<p><b>3.</b> Квест Delicious Top Choice Meat (Сбор Звёздный Камней для Агатионов) - количество получаемых сбором предметов увеличено в три раза.</p><br>\n<p><b>4.</b> Квест How to Oppose Evil (Книги, рецепты Икарус, II Essence на Грации) - количество получаемых предметов увеличено в два раза, цены на книги уменьшены в два раза.</p><br>\n<p><b>5.</b> Отключен Aerial Cleft и открытие SoI для фарма кристаллов атрибута, однако после открытия 3х первых SoD'ов - становится возможным обменивать обычные камни атрибута с доплатой на кристаллы атрибута.</p><div class=\"ps__rail-x\" style=\"left: 0px; bottom: 0px;\"><div class=\"ps__thumb-x\" tabindex=\"0\" style=\"left: 0px; width: 0px;\"></div></div><div class=\"ps__rail-y\" style=\"top: 0px; right: 0px; height: 256px;\"><div class=\"ps__thumb-y\" tabindex=\"0\" style=\"top: 0px; height: 58px;\"></div></div>"
+        }
+    ]
+}
